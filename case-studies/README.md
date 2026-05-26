@@ -30,5 +30,4 @@ Every case-study README contains, in this order:
 
 | # | Protocol | Status |
 |---|----------|--------|
-| [001](./001-core-restore/) | Core Restore 14-day liver cleanse | 📝 Draft |
-| 002 | Nightshade reintroduction trial | 🏃 In progress |
+| [001](./001-core-restore/) | Core Restore 14-day liver cleanse (with infrared sauna throughout) | 📝 Draft |

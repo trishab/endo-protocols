@@ -20,18 +20,17 @@ Ordered from least-likely-to-react to most-likely-to-react. **Your practitioner 
 
 | # | Food Group | Example test foods | Why this slot |
 |---|---|---|---|
-| 1 | Nightshades (if eliminated) | Tomato, bell pepper, white potato, eggplant | Low inflammatory load for most people; good confidence-builder |
-| 2 | Eggs | Whole eggs, cooked plain | Nutrient-dense, moderate reactivity |
-| 3 | Dairy — goat/sheep first, then cow | Goat cheese → cow yogurt → cow milk | Goat/sheep often tolerated when cow isn't |
-| 4 | Corn | Plain cooked corn, corn tortilla | Moderately reactive; test before gluten |
-| 5 | Gluten-containing grains | Sourdough, pasta, oats (if excluded) | High reactivity for many — full 3-day window |
-| 6 | Soy (whole-food form) | Edamame, tempeh, tofu — not refined oil | Test as whole food for real read |
-| 7 | Peanuts & other legumes | Peanut butter, lentils, chickpeas | Test separately from soy |
-| 8 | Red meat (if excluded) | Grass-fed beef, lamb | Usually tolerated once gut is calm |
-| 9 | Shellfish (if excluded) | Shrimp, scallops | Lower priority unless you eat it often |
-| 10 | Added sugar | Dessert, sweetened drink | Save for later — easy to over-test |
-| 11 | Alcohol | One serving of one type | Stresses liver post-detox |
-| 12 | Caffeine (if excluded) | Coffee or black tea | Last because it masks fatigue |
+| 1 | Eggs | Whole eggs, cooked plain | Nutrient-dense, moderate reactivity |
+| 2 | Dairy — goat/sheep first, then cow | Goat cheese → cow yogurt → cow milk | Goat/sheep often tolerated when cow isn't |
+| 3 | Corn | Plain cooked corn, corn tortilla | Moderately reactive; test before gluten |
+| 4 | Gluten-containing grains | Sourdough, pasta, oats (if excluded) | High reactivity for many — full 3-day window |
+| 5 | Soy (whole-food form) | Edamame, tempeh, tofu — not refined oil | Test as whole food for real read |
+| 6 | Peanuts & other legumes | Peanut butter, lentils, chickpeas | Test separately from soy |
+| 7 | Red meat (if excluded) | Grass-fed beef, lamb | Usually tolerated once gut is calm |
+| 8 | Shellfish (if excluded) | Shrimp, scallops | Lower priority unless you eat it often |
+| 9 | Added sugar | Dessert, sweetened drink | Save for later — easy to over-test |
+| 10 | Alcohol | One serving of one type | Stresses liver post-detox |
+| 11 | Caffeine (if excluded) | Coffee or black tea | Last because it masks fatigue |
 
 ---
 

@@ -32,9 +32,7 @@ This is the opportunity this repository explores: using a consumer wearable (WHO
 
 | # | Protocol | Status | Key WHOOP signal |
 |---|----------|--------|------------------|
-| [001](case-studies/001-core-restore/) | **Core Restore 14-day liver cleanse** | 📝 Draft (data in, narrative refining) | HRV +23%, recovery +12 pts, resting HR −4 bpm |
-| 002 | **Nightshade reintroduction trial** | 🏃 In progress | HRV −23% by Day 4 (preliminary) |
-| 003 | **Infrared sauna: 30-day HRV tracking** | 🔮 Planned | TBD |
+| [001](case-studies/001-core-restore/) | **Core Restore 14-day liver cleanse (with infrared sauna throughout)** | 📝 Draft | HRV ⬆⬆ · Recovery ⬆⬆ · Resting HR ⬇ · Sleep ⬆ |
 
 ## Current studies (n>1, citizen science)
 

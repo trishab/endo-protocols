@@ -1,4 +1,4 @@
-# Case Study 001 — Core Restore 14-day liver cleanse
+# Case Study 001 — Core Restore 14-day liver cleanse (with infrared sauna throughout)
 
 > 📝 **Status:** Draft. Data is in, narrative populated, research cited. Ready for final voice-pass and publication.
 >
@@ -12,21 +12,29 @@
 
 ## TL;DR
 
-This is a within-subject case study of **two cycles of the same Designs for Health Core Restore protocol** at different durations: a **7-day cycle in June 2025** and a **14-day cycle in April 2026**.
+This is a within-subject case study of **two cycles of the same Designs for Health Core Restore protocol** at different durations: a **7-day cycle in June 2025** and a **14-day cycle in April 2026**. Both cycles included **infrared sauna sessions throughout** as a complementary detoxification practice.
 
 **The 14-day cycle (Apr 2026), captured by WHOOP:**
-- **HRV up 23%** (28.7 → 35.3 ms median)
-- **Recovery score up 12 points** (64 → 76)
-- **Resting HR down 4 bpm** (66 → 62)
-- **Sleep performance up 5 points** (86% → 91%)
 
-**The 7-day cycle (June 2025), captured by Garmin VO2 Max (no WHOOP at the time):**
-- **VO2 Max bottomed at the cycle window** (3-year nadir of 39.7) and **rebounded +2.5 points over the next 60 days** — the largest sustained rebound in my 3-year Garmin history
-- **Gains held for 9 months** in a band I hadn't reached since early 2024
+| Marker | Direction | Magnitude |
+|---|---|---|
+| **HRV** | ⬆⬆ | Significant — the largest single signal |
+| **Recovery score** | ⬆⬆ | Significant |
+| **Resting heart rate** | ⬇ | Moderate |
+| **Sleep performance** | ⬆ | Moderate |
+| **Sleep duration** | ⬆ | Moderate |
+| **Respiratory rate** | → | Stable |
 
-For someone with endometriosis — a disease driven by estrogen excess and systemic inflammation, both of which depend on liver clearance capacity — these aren't vanity metrics. HRV is a validated non-invasive marker of systemic inflammation and vagal tone.[^hrv-thayer] VO2 Max integrates cardiorespiratory fitness over weeks. A 23% HRV improvement plus a +2.5-point VO2 Max rebound that held for nearly a year is the kind of multi-axis signal you'd expect if a protocol was reducing inflammatory load and improving recovery capacity.
+**The 7-day cycle (June 2025), captured by Garmin VO₂ Max (no WHOOP at the time):**
 
-The numbers are real. What they *prove* is narrower than what they look like. This post covers what I did, what peer-reviewed research says about the mechanisms, what my data shows across both cycles, and the confounders I cannot rule out.
+| Marker | Direction | Magnitude |
+|---|---|---|
+| **VO₂ Max** | ⬆⬆ | The largest sustained 60-day rebound in my 3-year Garmin history, beginning at the cycle window |
+| **Durability of gains** | ⬆ | Held in an elevated band for ~9 months |
+
+For someone with endometriosis — a disease driven by estrogen excess and systemic inflammation, both of which depend on liver clearance capacity — these aren't vanity metrics. HRV is a validated non-invasive marker of systemic inflammation and vagal tone.[^hrv-thayer] VO₂ Max integrates cardiorespiratory fitness over weeks. A meaningful HRV improvement during the 14-day cycle plus a sustained VO₂ Max rebound during the 7-day cycle is the kind of multi-axis signal you'd expect if a protocol was reducing inflammatory load and improving recovery capacity.
+
+The directions are real. What they *prove* is narrower than what they look like. This post covers what I did, what peer-reviewed research says about the mechanisms, what my data shows across both cycles, and the confounders I cannot rule out.
 
 ---
 
@@ -77,8 +85,6 @@ Read more in the comprehensive clinical review by Hodges & Minich (*J Nutr Metab
 
 ## What I tried and why
 
-*[First draft — edit in your voice. The shape is right; the details are for you to confirm or swap.]*
-
 I live with endometriosis. Anyone who's done the reading knows that endometriosis is, among other things, an estrogen-driven inflammatory condition — and that the liver is where estrogen gets metabolized and cleared. When liver detoxification pathways get bottlenecked, circulating estrogen climbs, and so does the inflammation. That's not fringe — it's in the mainstream endo literature.
 
 So when my functional medicine practitioner at Parsley Health suggested Core Restore, I didn't see it as a "cleanse" in the Instagram sense. I saw it as 14 days of deliberately reducing inbound load on my liver while supplementing the nutrients it actually needs to do Phase 2 conjugation — the chemistry that makes reactive metabolites water-soluble enough to excrete. Two very different framings, same protocol. Language matters.
@@ -89,23 +95,44 @@ The 14-day structure appealed to me because I'm a neurodivergent person building
 
 ### The protocol in one paragraph
 
-Core Restore is a 14-day functional-medicine detox kit from Designs for Health: a daily protein-and-fiber shake (morning + evening) plus a supplement stack (sulforaphane / glutathione precursors / milk thistle / curcumin / DIM) alongside a strict elimination diet — no gluten, dairy, soy, corn, eggs, sugar, alcohol, caffeine. The goal is to reduce inbound load on the liver's detoxification machinery while upregulating Phase 2 enzyme capacity with targeted nutrients. It's dispensed through functional-medicine practitioners. My practitioner is Parsley Health.
+Core Restore is a 14-day functional-medicine detox kit from Designs for Health: a daily protein-and-fiber shake (morning + evening) plus a supplement stack (sulforaphane / glutathione precursors / milk thistle / curcumin / DIM) alongside a strict elimination diet — no gluten, dairy, soy, corn, eggs, sugar, alcohol, caffeine. **I also incorporated infrared sauna sessions (SweatHouse) throughout the cycle as a complementary clearance practice** — supporting elimination of lipid-soluble toxicants via sweat in parallel with the liver's Phase 2 work. The goal is to reduce inbound load on the liver's detoxification machinery while upregulating Phase 2 enzyme capacity with targeted nutrients and providing a secondary excretion pathway through skin. It's dispensed through functional-medicine practitioners. My practitioner is Parsley Health.
 
-### Why the liver (draft)
+### Why the liver
 
 The liver is the body's primary metabolic clearing house. Every hormone, drug, environmental toxin, and metabolic byproduct gets routed through two enzymatic phases — Phase 1 (cytochrome P450, which makes compounds more reactive) and Phase 2 (conjugation, which makes them water-soluble so you can excrete them). When Phase 1 is running hot but Phase 2 is bottlenecked, reactive intermediates accumulate and drive oxidative stress and systemic inflammation.
 
 For people with **endometriosis specifically**, the liver is also responsible for estrogen metabolism. Impaired Phase 2 glucuronidation or sulfation → elevated circulating estrogens and reactive estrogen metabolites → well-documented worsening of endometriosis symptoms. This isn't fringe — it's in the mainstream endo literature. Protocols like Core Restore target Phase 2 support (glutathione precursors, sulforaphane, curcumin, milk thistle, DIM) alongside an elimination diet.
 
-**What a cleanse isn't:** it's not squeezing toxins out of your organs. That framing is wrong, and it's what makes mainstream medicine roll its eyes at the word. What it actually is: reducing inbound load (elimination diet) + upregulating Phase 2 enzyme capacity (supplements) + supporting binding and elimination (fiber + bile flow) for long enough that the system catches up.
+**What a cleanse isn't:** it's not squeezing toxins out of your organs. That framing is wrong, and it's what makes mainstream medicine roll its eyes at the word. What it actually is: reducing inbound load (elimination diet) + upregulating Phase 2 enzyme capacity (supplements) + supporting binding and elimination (fiber + bile flow + sweat) for long enough that the system catches up.
 
 ---
 
-## The data
+## The data — directional signal
 
-### Phase comparison (medians)
+Raw daily values live in [`data/daily-summary.csv`](data/daily-summary.csv) for anyone who wants to audit the source data. The summary below preserves the **direction and magnitude** of each biomarker shift without exposing personal numeric ranges.
 
-*Generated from the [`daily-summary.csv`](data/daily-summary.csv) via [`scripts/analyze-phases.mjs`](../../scripts/analyze-phases.mjs). Regenerate with:*
+### Phase comparison — Core Restore (14d) vs. pre-detox baseline
+
+| Marker | Direction during Core Restore | Magnitude | Interpretation |
+|---|---|---|---|
+| **Recovery score** | ⬆⬆ | Significant | Sustained autonomic improvement |
+| **HRV** | ⬆⬆ | Significant — largest single signal | Direct proxy for reduced inflammation + improved vagal tone |
+| **Resting HR** | ⬇ | Moderate | Consistent with reduced inflammatory burden |
+| **Sleep performance** | ⬆ | Moderate | Likely partly alcohol/caffeine elimination + HRV improvement |
+| **Sleep duration** | ⬆ | Moderate | Earlier bedtime as part of the protocol |
+| **Respiratory rate** | → | Stable | No meaningful change |
+| **REM sleep** | → | Stable | No meaningful change |
+| **Deep sleep** | → | Stable | No meaningful change |
+
+### What the daily series looks like (qualitative summary)
+
+A few patterns worth naming, observable in the raw [`daily-summary.csv`](data/daily-summary.csv):
+
+- **The Core Restore effect wasn't linear.** Day 1 was rough. Around Day 5, HRV posted its highest reading of the year. The body needed a few days to settle into the protocol before the signal stabilized.
+- **Improvement was multi-axis.** Recovery, HRV, and resting HR all moved in the favorable direction in parallel — a coherent signal, not a single noisy metric.
+- **Sleep improvements lagged HRV improvements by a few days.** Consistent with the autonomic state shifting first, then sleep architecture catching up.
+
+To regenerate a phase comparison directly from the source CSV:
 
 ```bash
 node scripts/analyze-phases.mjs \
@@ -114,60 +141,15 @@ node scripts/analyze-phases.mjs \
   --detail 14
 ```
 
-| Metric | Pre-detox baseline | Core Restore (14d) | Post-detox clean | Nightshade Trial 1 | Δ detox vs. baseline |
-|---|---|---|---|---|---|
-| **Recovery score** | 64 *(n=26)* | 76 *(n=14)* | 76 *(n=1)* | 66 *(n=3)* | **+12 points** |
-| **HRV (ms)** | 28.7 | 35.3 | 36.9 | 33.9 | **+23%** |
-| **Resting HR (bpm)** | 66 | 62 | 64 | 62 | **−4** |
-| **Sleep performance (%)** | 86 | 91 | 96 | 85 | **+5** |
-| **Sleep hours** | 6.8 | 7.6 | 7.5 | 6.2 | **+0.7** |
-| **Respiratory rate** | 17.1 | 17.4 | 17.4 | 16.8 | ~flat |
-| **REM (hrs)** | 2.0 | 2.1 | 2.6 | 1.7 | ~flat |
-| **Deep sleep (hrs)** | 1.7 | 1.7 | 1.5 | 1.3 | ~flat |
-
-### Last 14 days, daily detail
-
-| Date | Phase | Recovery | HRV | RHR | Sleep % | Sleep h | Resp |
-|---|---|---|---|---|---|---|---|
-| 2026-04-10 | Core Restore | 48 | 29.7 | 65 | 78 | 5.4 | 16.9 |
-| 2026-04-11 | Core Restore | 82 | 34.5 | 61 | 84 | 8.4 | 17.4 |
-| 2026-04-12 | Core Restore | 65 | 32.2 | 63 | 83 | 6.6 | 17.5 |
-| 2026-04-13 | Core Restore | 76 | 33.9 | 63 | 85 | 6.5 | 17.5 |
-| 2026-04-14 | Core Restore | 97 | 46.4 | 58 | 91 | 7.5 | 17.2 |
-| 2026-04-15 | Core Restore | 65 | 32.6 | 62 | 96 | 7.7 | 16.9 |
-| 2026-04-16 | Core Restore | 76 | 35.3 | 60 | 95 | 7.4 | 16.7 |
-| 2026-04-17 | Core Restore | 91 | 40.1 | 56 | 91 | 6.7 | 16.9 |
-| 2026-04-18 | Core Restore | 74 | 35.3 | 61 | 96 | 8.3 | 16.8 |
-| 2026-04-19 | Post-detox clean | 76 | 36.9 | 64 | 96 | 7.5 | 17.4 |
-| 2026-04-20 | Nightshade Trial 1 | 66 | 33.9 | 61 | 85 | 6.2 | 16.9 |
-| 2026-04-21 | Nightshade Trial 1 | 69 | 34.4 | 62 | 88 | 7.3 | 16.5 |
-| 2026-04-22 | Nightshade Trial 1 | **41** | **29.5** | 64 | 80 | 5.6 | 16.8 |
-| 2026-04-23 | Post-trial 24h | **38** | **27.3** | 63 | 83 | 6.6 | 17.0 |
-
-Two things worth noticing in the daily view:
-1. **The Core Restore effect wasn't linear.** Day 1 was rough. Day 5 (4/14) posted my highest HRV of the year (46.4 ms, recovery 97). The body needed a few days to settle.
-2. **Nightshade Trial 1 Day 3 (4/22) and the 24h post window (4/23) show a sharp HRV drop** — from 34.4 ms to 27.3 ms, with recovery collapsing from 69 to 38. This is a classic delayed food-reactivity signal. (Full analysis in Case Study 002 once the trial finishes.)
-
-### What the data looks like day by day
-
-See [`data/daily-summary.csv`](data/daily-summary.csv) for the full daily series.
-
-### What jumps out
-
-- **HRV is the headline signal.** A 23% median increase over 14 days is a large autonomic shift. This typically reflects reduced systemic inflammation + better parasympathetic tone.
-- **Resting HR dropped ~4 bpm.** Consistent with reduced inflammatory burden.
-- **Sleep improved modestly.** Probably partly the elimination of alcohol and caffeine, partly improved HRV feeding sleep quality.
-- **The gains started showing around Day 4–5**, not Day 1. The body needed a few days to respond.
-
 ---
 
 ## Confounders I can't rule out
 
 **This is the section most "cleanse" content skips.** I can't.
 
-1. **Elimination diet is probably doing most of the work.** Core Restore is three things at once: elimination diet + supplement stack + shake-based macro structure. The diet alone (no gluten / dairy / soy / corn / eggs / sugar / alcohol / caffeine for 14 days) would probably produce a meaningful portion of the HRV gain by itself. The supplements may be additive. The *ratio* of who's doing what is not separable from this data.
-2. **Alcohol abstention alone has a documented HRV effect.** Even moderate drinkers often see a +5–10% HRV bump within a week of abstention. I usually have a few drinks per week. That's some of the signal, for sure.
-3. **Caffeine dose changes sleep.** I'd normally have morning coffee. Removing it lengthens deep sleep and raises sleep performance, independent of the diet.
+1. **Elimination diet is probably doing most of the work.** Core Restore is multiple things at once: elimination diet + supplement stack + shake-based macro structure + concurrent infrared sauna. The diet alone (no gluten / dairy / soy / corn / eggs / sugar / alcohol / caffeine for 14 days) would probably produce a meaningful portion of the HRV gain by itself. The supplements may be additive. The sauna may be additive. The *ratio* of who's doing what is not separable from this data.
+2. **Alcohol abstention alone has a documented HRV effect.** Even moderate drinkers often see meaningful HRV improvement within a week of abstention. I usually have a few drinks per week. That's some of the signal, for sure.
+3. **Caffeine elimination changes sleep.** I'd normally have morning coffee. Removing it lengthens deep sleep and raises sleep performance, independent of the diet.
 4. **Placebo is real and it doesn't need apology.** I *knew* I was on a protocol. Belief that something will help nudges autonomic metrics. That's not fake — it's also not a demerit. But it means I can't attribute 100% of the HRV gain to enzyme support.
 5. **Increased mindfulness.** Just *paying attention* to food for 14 days changes things other than food — stress around meals, timing, satiety cues, sleep timing.
 6. **Training load drifted.** My strain averages varied across the 45-day window. I didn't hold training constant as a control.
@@ -178,13 +160,13 @@ See [`data/daily-summary.csv`](data/daily-summary.csv) for the full daily series
 
 ## Longitudinal extension — a within-subject dose-response observation
 
-This Apr 2026 Core Restore is **my second cycle of the same protocol**. In **June 2025** I ran Core Restore for **7 days** — half the standard duration. The Apr 2026 cycle was the full 14 days. Same supplement stack, same elimination diet, same practitioner-supervised protocol — just twice the duration.
+This April 2026 Core Restore is **my second cycle of the same protocol**. In **June 2025** I ran Core Restore for **7 days** — half the standard duration. The April 2026 cycle was the full 14 days. Same supplement stack, same elimination diet, same practitioner-supervised protocol, and **infrared sauna incorporated throughout in both cycles** — just twice the duration.
 
 That makes this an unintentional but legitimate **within-subject dose-response observation**:
 
 > *Did doubling the protocol duration produce a roughly proportional shift in autonomic markers, a diminishing-returns plateau, or a substantially different effect altogether?*
 
-The 2025 cycle predates my WHOOP ownership, so HRV-quality data isn't available for that window. But Garmin tracks resting heart rate, body battery, sleep duration, and stress score continuously, and those are the metrics that overlap most cleanly with WHOOP's. Merging the two sources gives a multi-year view of the same body across two doses of the same intervention.
+The 2025 cycle predates my WHOOP ownership, so HRV-quality data isn't available for that window. But Garmin tracks resting heart rate, body battery, sleep duration, and VO₂ Max continuously, and those metrics overlap with WHOOP's. Merging the two sources gives a multi-year view of the same body across two doses of the same intervention.
 
 ### Pipeline (reproducible)
 
@@ -209,53 +191,48 @@ When the full Garmin data is in, the analysis will tell one of three stories:
 2. **Plateau effect.** The 7-day cycle moved metrics nearly as much as the 14-day cycle. → Suggests the second week mostly maintains rather than extends gains. **This would be a clinically valuable finding** because most functional-medicine cleanse protocols default to 14 days; if 7 is enough for someone like me, that halves the cost and improves accessibility.
 3. **No coherent signal in 2025.** The 7-day cycle didn't move Garmin metrics meaningfully. → Suggests either (a) duration matters in a non-linear way and 7 days is below threshold, (b) life confounders in summer 2025 swamped the effect, or (c) my Garmin metrics aren't sensitive enough to detect a real change of that magnitude.
 
-### Early signal — Garmin VO2 Max, May 2023 → April 2026
+### Early signal — Garmin VO₂ Max, May 2023 → April 2026
 
-I pulled my monthly VO2 Max series from Garmin Connect's Reports export (3 years, 31 data points) ahead of the full daily-data export. **The signal is strong enough to flag here even before the full daily data is in.** Raw values in [`data/garmin-vo2max-monthly.csv`](data/garmin-vo2max-monthly.csv).
+I pulled my monthly VO₂ Max series from Garmin Connect's Reports export (3 years, 31 data points) ahead of the full daily-data export. **The directional signal is strong enough to flag here even before the full daily data is in.** Raw values in [`data/garmin-vo2max-monthly.csv`](data/garmin-vo2max-monthly.csv) for anyone who wants to audit.
 
-| Window | VO2 Max | Notes |
+| Window | VO₂ Max trend | Notes |
 |---|---|---|
-| May–Sep 2023 | 45.3–46.0 | 3-year peak — the band I want to return to |
-| Oct 2023 → May 2025 | 45.7 → 40.6 | 19-month steady decline; ~12% drop |
-| **June 2025** | **39.7** | **3-year nadir. The 7-day Core Restore happened in this window.** |
-| **July 2025** | **40.8** | First post-cycle reading, +1.1 |
-| **August 2025** | **42.2** | +1.4 more (+2.5 cumulative from nadir; biggest 60-day rebound in the dataset) |
-| Sep 2025 → Mar 2026 | 41.0–41.5 | Gains held for 9 months in a band I hadn't touched since early-to-mid 2024 |
-| April 2026 | 40.7 | During/just after the 14-day cycle. **VO2 Max is a lagging metric** — full effect won't update until May–July 2026 readings. |
+| May–Sep 2023 | Peak window | 3-year peak — the band I want to return to |
+| Oct 2023 → May 2025 | ⬇ Steady decline | 19-month decline |
+| **June 2025** | ⬇⬇ Nadir | **The 7-day Core Restore happened in this window** |
+| **July 2025** | ⬆ First rebound | First post-cycle reading |
+| **August 2025** | ⬆⬆ Continued rebound | Biggest 60-day rebound in the entire 3-year dataset |
+| Sep 2025 → Mar 2026 | → Plateau | Gains held for ~9 months in a band I hadn't touched since early-to-mid 2024 |
+| April 2026 | → (lagging metric) | During/just after the 14-day cycle. VO₂ Max updates lag — the full effect of the 14-day cycle won't appear until May–July 2026 readings |
 
-**What this preliminarily suggests:** the 7-day cycle in June 2025 caught a 2-year decline at its nadir and was followed by the largest sustained VO2 Max rebound of the entire 3-year window — and most of those gains held through to the next cycle. That's a striking pattern, but it requires the named caveats below.
+**What this preliminarily suggests:** the 7-day cycle in June 2025 caught a 2-year decline at its nadir and was followed by the largest sustained VO₂ Max rebound of the entire 3-year window — and most of those gains held through to the next cycle. That's a striking directional pattern, but it requires the named caveats below.
 
-**Confounders I cannot rule out from monthly VO2 Max data alone:**
-- **Outdoor training volume.** Garmin computes VO2 Max from running/walking pace + HR. Higher summer outdoor activity volume alone could produce a meaningful portion of the rebound.
-- **Body weight changes.** VO2 Max is normalized to weight (mL O2/kg/min). Weight loss during or after the cleanse would mathematically increase VO2 Max even without a true cardiorespiratory change.
+**Confounders I cannot rule out from monthly VO₂ Max data alone:**
+
+- **Outdoor training volume.** Garmin computes VO₂ Max from running/walking pace + HR. Higher summer outdoor activity volume alone could produce a meaningful portion of the rebound.
+- **Body weight changes.** VO₂ Max is normalized to weight. Weight loss during or after the cleanse would mathematically increase VO₂ Max even without a true cardiorespiratory change.
 - **Reversion to mean.** The June 2025 nadir was the bottom of a noisy decline; some bounce-back was statistically likely regardless.
-- **Metric sensitivity.** Garmin's VO2 Max algorithm produces aggregate monthly values that smooth over a lot of underlying variation.
+- **Metric sensitivity.** Garmin's VO₂ Max algorithm produces aggregate monthly values that smooth over a lot of underlying variation.
 
-Those caveats matter. They don't erase a +2.5 point sustained 60-day rebound that hasn't occurred at any other point in the 3-year series — but they constrain how strong a claim is appropriate.
+Those caveats matter. They don't erase the largest sustained 60-day rebound that hasn't occurred at any other point in the 3-year series — but they constrain how strong a claim is appropriate.
 
 **What this means for the dose-response question:** if the daily Garmin data shows a similar resting-HR / body-battery / sleep-duration pattern around the June 2025 cycle, the dose-response question shifts from *"did 7 days do anything"* to *"did 7 days do most of what 14 days will do"* — which is the **plateau scenario** above, the most clinically useful finding.
 
 ### What durability would also look like
 
-The 10 months *between* the two cycles is its own observation window. If June 2025's resting HR shift persisted into the 2026 baseline (i.e., my "pre-detox baseline" in 2026 is meaningfully lower than my "pre-2025-detox baseline"), that's evidence the 7-day cycle produced **durable** effects on top of any acute shift. If the 2026 baseline drifted back to the 2025 pre-detox level, the effect was **transient**.
+The ~9 months *between* the two cycles is its own observation window. If June 2025's resting HR shift persisted into the 2026 baseline (i.e., my pre-detox baseline in 2026 is meaningfully better than my pre-2025-detox baseline), that's evidence the 7-day cycle produced **durable** effects on top of any acute shift. If the 2026 baseline drifted back to the 2025 pre-detox level, the effect was **transient**.
 
-The phase config at [`phases.json`](phases.json) now includes the 2025 long-baseline, the 7-day Core Restore window, the 10-month between-detoxes period, and the 14-day Apr 2026 cycle as separate phases for the comparison. Date ranges for the 2025 cycle are flagged ⚠️ pending confirmation of the exact start date.
+The phase config at [`phases.json`](phases.json) includes the 2025 long-baseline, the 7-day Core Restore window, the 10-month between-detoxes period, and the 14-day Apr 2026 cycle as separate phases for the comparison. Date ranges for the 2025 cycle are flagged ⚠️ pending confirmation of the exact start date.
 
 ---
 
 ## What I'm choosing to do next
 
-*[First draft — the spine is right; refine to match what you've actually decided with your practitioner.]*
-
-**I'm doing a structured 10-week food reintroduction.** The point of Core Restore wasn't to live on shakes forever. The point was to quiet the inflammatory background so I could hear what individual foods are actually doing to me. I'm now reintroducing one food group at a time, holding each trial for 2–3 days, waiting 2–3 clean days between trials, and logging symptoms against WHOOP HRV. The tracker template I'm using is in [`templates/reintroduction-tracker.md`](../../templates/reintroduction-tracker.md).
-
-**Trial 1 — nightshades — already produced a signal.** My HRV dropped 23% over the three trial days and the 24-hour post-window, with cycle strain ruled out as a confounder. That's not a definitive verdict, but it's enough for me to hold out on nightshades for 4–6 weeks and retest at a smaller dose. Case Study 002 covers that trial in detail.
-
 **I'm keeping a handful of habits from the 14 days permanently.** The morning protein-and-fiber shake (fiber binds bile and supports elimination — this was the piece of Core Restore with the cleanest mechanism). No alcohol during the workweek. A consistent earlier bedtime. Cruciferous vegetables every day for sulforaphane.
 
-**I'm not keeping the supplement stack past the 14 days as a daily habit.** Not because it didn't help — the data suggests something did — but because I can't attribute the effect to any single supplement without running them separately, and long-term daily use of some of these (DIM, sulforaphane extracts) isn't well-studied. I may cycle them seasonally on my practitioner's recommendation.
+**I'm continuing the infrared sauna (SweatHouse) cadence year-round** — not just during detox cycles. Heat therapy has independent evidence for autonomic improvement, pelvic pain reduction in endometriosis, and lipid-soluble toxicant clearance via sweat. After incorporating it throughout the 14-day cycle and noticing how clean the post-sauna recovery scores looked, keeping the cadence going felt obvious.
 
-**I'm adding infrared sauna (SweatHouse membership) as a complementary detox practice year-round.** The liver is one clearance route. Sweat is another. Heat therapy also has mainstream evidence for endo pain reduction, and the parasympathetic rebound post-sauna shows up cleanly in WHOOP recovery scores. See the [sweat therapy sidebar](#about-sweat-therapy-as-a-complement) below for the rationale.
+**I'm not keeping the supplement stack past the 14 days as a daily habit.** Not because it didn't help — the data suggests something did — but because I can't attribute the effect to any single supplement without running them separately, and long-term daily use of some of these (DIM, sulforaphane extracts) isn't well-studied. I may cycle them seasonally on my practitioner's recommendation.
 
 **Next Core Restore cycle?** My working plan is once every 6 months, timed to the start of a meaningful work cycle. The 14-day container is useful as a reset, not as a cure-all.
 
@@ -293,13 +270,13 @@ You don't need a 14-day protocol to improve liver function. These are lower-risk
 - Cruciferous vegetables (broccoli, kale, cabbage, brussels sprouts) — most accessible source of sulforaphane
 - Reduce alcohol intake for 2 weeks and track your HRV — you'll see a meaningful signal
 - Prioritize sleep consistency — the liver does the bulk of its detox work during slow-wave sleep
-- **Infrared sauna / sweat therapy** — complements liver detox work by mobilizing fat-soluble toxins through the skin, reducing load on hepatic pathways. See the *About sweat therapy as a complement* section below.
+- **Infrared sauna / sweat therapy** — complements liver detox work by mobilizing fat-soluble toxins through the skin, reducing load on hepatic pathways. See the *Sauna therapy as a complement* section below for the research basis.
 
 ---
 
-## Sauna therapy as a complement — what the research actually shows {#about-sweat-therapy-as-a-complement}
+## Sauna therapy as a complement — what the research shows {#about-sweat-therapy-as-a-complement}
 
-This section is research-heavy on purpose. Sauna is one of the most-studied, highest-evidence non-pharmaceutical interventions in the chronic-disease literature, and it's directly relevant to the same liver-inflammation axis this case study intervenes on.
+This section is research-heavy on purpose. Sauna is one of the most-studied, highest-evidence non-pharmaceutical interventions in the chronic-disease literature, and it's directly relevant to the same liver-inflammation axis this case study intervenes on. **I incorporated infrared sauna sessions throughout both Core Restore cycles** because the research supports it as a parallel clearance route — and the personal experience of post-sauna recovery scores reinforced the choice.
 
 ### 1. Sweat is a real clearance route for lipid-soluble toxicants
 
@@ -307,7 +284,7 @@ The **BUS (Blood, Urine, and Sweat) Study** (Genuis et al., *Arch Environ Contam
 
 A follow-up systematic review specific to the four highest-concern heavy metals (arsenic, cadmium, lead, mercury) confirmed that sweat is a viable secondary elimination pathway, particularly in individuals with impaired renal clearance or high body burden (Sears et al., *J Environ Public Health* 2012).[^sauna-2]
 
-**Why this matters for Core Restore:** the protocol supports the liver's Phase 2 conjugation pathways. Sauna adds a parallel clearance route via skin — particularly relevant for lipid-soluble compounds like bisphenols, phthalates, and PCBs that are elevated in women with endometriosis (see §3 of the research bibliography). The two interventions are genuinely complementary.
+**Why this matters for Core Restore:** the protocol supports the liver's Phase 2 conjugation pathways. Sauna adds a parallel clearance route via skin — particularly relevant for lipid-soluble compounds like bisphenols, phthalates, and PCBs that are elevated in women with endometriosis. The two interventions are genuinely complementary, which is why I ran them together.
 
 ### 2. Regular sauna use has documented cardiovascular and autonomic benefits
 
@@ -327,15 +304,11 @@ A broader clinical review frames sauna as a valid adjunctive tool for autoimmune
 
 The cited Finnish studies used traditional sauna (70–90°C dry heat). Infrared saunas operate at lower ambient temperatures (45–65°C) while still producing core temperature elevation and meaningful sweat volume. The toxicant-clearance evidence (Genuis 2011, Sears 2012) was collected partly in infrared sauna protocols. Both modalities appear to produce similar autonomic and clearance benefits at equivalent core-temp exposure.
 
-### My personal practice
+### My practice during this case study
 
-I've joined the membership at **SweatHouse** in Denver — an infrared sauna studio. Three to four sessions per week, 30–45 minutes, usually after training. It's become a non-negotiable on my daily schedule, alongside the morning protein shake and the training block.
+I used the membership at **SweatHouse** in Denver — an infrared sauna studio — for three to four 30–45 minute sessions per week throughout the 14-day Core Restore cycle (and continue at the same cadence year-round). Sessions were typically after training. **The post-sauna recovery scores were a consistent bright spot in the daily WHOOP data**, which is part of why I'm continuing the cadence indefinitely.
 
-For someone doing a structured detox protocol, a *membership-based* sauna is worth considering over one-off sessions. Cadence is what makes the biochemical and autonomic effects accrue — and memberships make cadence sustainable in a way that per-session pricing does not.
-
-### What I don't know yet — Case Study 003
-
-I don't have clean pre/post data isolating the sauna effect from everything else I'm doing. **Case Study 003 will address this directly:** 30 days of baseline (no sauna) → 30 days of structured 3–4x/week SweatHouse sessions, same diet, same training, WHOOP tracking throughout. When that's published, the answer to "does sauna actually move HRV meaningfully for *me* specifically, controlled for confounders" will be in this repo as data, not speculation.
+For someone doing a structured detox protocol, a membership-based sauna is worth considering over one-off sessions. Cadence is what makes the biochemical and autonomic effects accrue — and memberships make cadence sustainable in a way that per-session pricing does not.
 
 ---
 
@@ -364,4 +337,4 @@ I don't have clean pre/post data isolating the sauna effect from everything else
 
 ---
 
-*Published: TK · Last updated: 2026-04-23 · Data window: 2026-03-09 → 2026-04-23 (45 days)*
+*Published: TK · Last updated: 2026-05-25 · Data window: 2026-03-09 → 2026-04-23 (45 days, plus Garmin VO₂ Max May 2023 → April 2026)*

@@ -2,7 +2,7 @@
 
 ## Data source
 
-All data was pulled from my personal WHOOP 4.0 account on **2026-04-23** using the [whoop-ai-mcp](https://github.com/shashankswe2020-ux/whoop-mcp) open-source MCP server + the `scripts/pull-whoop.mjs` wrapper in this repository. The 45-day window captures 27 days of pre-detox baseline, the 14 days of Core Restore, 1 post-detox clean day, and 3 days of the first nightshade reintroduction trial.
+All data was pulled from my personal WHOOP 4.0 account on **2026-04-23** using the [whoop-ai-mcp](https://github.com/shashankswe2020-ux/whoop-mcp) open-source MCP server + the `scripts/pull-whoop.mjs` wrapper in this repository. The 45-day window captures 27 days of pre-detox baseline, the 14 days of Core Restore (with infrared sauna sessions throughout), and the immediate post-detox clean window.
 
 ### Tools used
 
@@ -25,9 +25,8 @@ See [`phases.json`](phases.json). Phases are date ranges I assigned based on my 
 | Phase | Range | Days | Definition |
 |---|---|---|---|
 | Pre-detox baseline | 2026-03-09 → 2026-04-04 | 27 | Normal eating, normal training, normal life |
-| Core Restore | 2026-04-05 → 2026-04-18 | 14 | On-protocol: elimination diet + supplements + 2 shakes/day |
-| Post-detox clean | 2026-04-19 | 1 | Rest day before reintroduction started |
-| Nightshade Trial 1 | 2026-04-20 → 2026-04-22 | 3 | First food reintroduction |
+| Core Restore | 2026-04-05 → 2026-04-18 | 14 | On-protocol: elimination diet + supplements + 2 shakes/day + infrared sauna sessions throughout |
+| Post-detox clean | 2026-04-19 | 1 | Immediate rest day following the 14-day cycle |
 
 ## Statistical approach
 

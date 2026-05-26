@@ -46,14 +46,7 @@
       "label": "Post-detox clean",
       "start": "2026-04-19",
       "end": "2026-04-19",
-      "notes": "Single rest day before food reintroduction."
-    },
-    {
-      "key": "night1",
-      "label": "Nightshade Trial 1",
-      "start": "2026-04-20",
-      "end": "2026-04-22",
-      "notes": "First food reintroduction trial (tomato / bell pepper / white potato / eggplant)."
+      "notes": "Single rest day immediately following the 14-day cycle."
     }
   ]
 }
