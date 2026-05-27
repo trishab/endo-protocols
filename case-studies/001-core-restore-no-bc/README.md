@@ -95,15 +95,15 @@ Read more in the comprehensive clinical review by Hodges & Minich (*J Nutr Metab
 
 I live with endometriosis. Anyone who's done the reading knows that endometriosis is, among other things, an estrogen-driven inflammatory condition — and that the liver is where estrogen gets metabolized and cleared. When liver detoxification pathways get bottlenecked, circulating estrogen climbs, and so does the inflammation. That's not fringe — it's in the mainstream endo literature.
 
-So when my functional medicine practitioner at Parsley Health suggested Core Restore, I didn't see it as a "cleanse" in the Instagram sense. I saw it as 14 days of deliberately reducing inbound load on my liver while supplementing the nutrients it actually needs to do Phase 2 conjugation — the chemistry that makes reactive metabolites water-soluble enough to excrete. Two very different framings, same protocol. Language matters.
+So when my functional medicine practitioner suggested Core Restore, I didn't see it as a "cleanse" in the Instagram sense. I saw it as 14 days of deliberately reducing inbound load on my liver while supplementing the nutrients it actually needs to do Phase 2 conjugation — the chemistry that makes reactive metabolites water-soluble enough to excrete. Two very different framings, same protocol. Language matters.
 
-I also wanted to know if it would *actually do anything*. I've been wearing a WHOOP for years. If this protocol worked, my heart rate variability should move. HRV is the most sensitive non-invasive proxy for systemic inflammation and autonomic nervous system load that a consumer wearable can measure. If Core Restore was going to do something measurable, HRV would register it before I consciously noticed.
+I also wanted to know if it would *actually do anything*. I've been wearing a WHOOP since June 2025 (approx). If this protocol worked, my heart rate variability should move. HRV is the most sensitive non-invasive proxy for systemic inflammation and autonomic nervous system load that a consumer wearable can measure. If Core Restore was going to do something measurable, HRV would register it before I consciously noticed.
 
 The 14-day structure appealed to me because I'm a neurodivergent person building a business. "Eat cleaner" is ambiguous — which my brain will not engage with. A structured protocol with a start date, an end date, and a clear rule set gives my nervous system a container to hold. I treated it as a 14-day experiment with a defined endpoint, not a lifestyle change.
 
 ### The protocol in one paragraph
 
-Core Restore is a 14-day functional-medicine detox kit from Designs for Health: a daily protein-and-fiber shake (morning + evening) plus a supplement stack (sulforaphane / glutathione precursors / milk thistle / curcumin / DIM) alongside a strict elimination diet — no gluten, dairy, soy, corn, eggs, sugar, alcohol, caffeine. **I also incorporated infrared sauna sessions (SweatHouse) throughout the cycle as a complementary clearance practice** — supporting elimination of lipid-soluble toxicants via sweat in parallel with the liver's Phase 2 work. The goal is to reduce inbound load on the liver's detoxification machinery while upregulating Phase 2 enzyme capacity with targeted nutrients and providing a secondary excretion pathway through skin. It's dispensed through functional-medicine practitioners. My practitioner is Parsley Health.
+Core Restore is a 14-day functional-medicine detox kit from Designs for Health: a daily protein-and-fiber shake (morning + evening) plus a supplement stack (sulforaphane / glutathione precursors / milk thistle / curcumin / DIM) alongside a strict elimination diet — no gluten, dairy, soy, corn, eggs, sugar, alcohol, caffeine. **I also incorporated infrared sauna sessions (SweatHouse) throughout the cycle as a complementary clearance practice** — supporting elimination of lipid-soluble toxicants via sweat in parallel with the liver's Phase 2 work. The goal is to reduce inbound load on the liver's detoxification machinery while upregulating Phase 2 enzyme capacity with targeted nutrients and providing a secondary excretion pathway through skin. It's dispensed through functional-medicine practitioners.
 
 ### Why the liver
 
@@ -212,7 +212,7 @@ The post-detox HRV crash (Apr 22–23) is also explained: that's late luteal / m
 
 ## Longitudinal extension — a within-subject dose-response observation
 
-This April 2026 Core Restore is **my second cycle of the same protocol**. In **June 2025** I ran Core Restore for **7 days** — half the standard duration. The April 2026 cycle was the full 14 days. Same supplement stack, same elimination diet, same practitioner-supervised protocol, and **infrared sauna incorporated throughout in both cycles** — just twice the duration.
+This April 2026 Core Restore is **my second cycle of the same protocol**. In **June 2025** I ran Core Restore for **7 days** — half the standard duration. The April 2026 cycle was the full 14 days. Same supplement stack, same elimination diet, same practitioner-supervised protocol, and **infrared sauna incorporated throughout the 14 day cycle only** — just twice the duration.
 
 That makes this an unintentional but legitimate **within-subject dose-response observation**:
 
@@ -328,7 +328,7 @@ You don't need a 14-day protocol to improve liver function. These are lower-risk
 
 ## Sauna therapy as a complement — what the research shows {#about-sweat-therapy-as-a-complement}
 
-This section is research-heavy on purpose. Sauna is one of the most-studied, highest-evidence non-pharmaceutical interventions in the chronic-disease literature, and it's directly relevant to the same liver-inflammation axis this case study intervenes on. **I incorporated infrared sauna sessions throughout both Core Restore cycles** because the research supports it as a parallel clearance route — and the personal experience of post-sauna recovery scores reinforced the choice.
+This section is research-heavy on purpose. Sauna is one of the most-studied, highest-evidence non-pharmaceutical interventions in the chronic-disease literature, and it's directly relevant to the same liver-inflammation axis this case study intervenes on. **I incorporated infrared sauna sessions throughout the 14 day Core Restore cycle only** because the research supports it as a parallel clearance route — and the personal experience of post-sauna recovery scores reinforced the choice.
 
 ### 1. Sweat is a real clearance route for lipid-soluble toxicants
 
