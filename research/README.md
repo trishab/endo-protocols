@@ -9,10 +9,10 @@ Each file in this directory aggregates research on one topic, with direct PubMed
 | File | Topic | Status |
 |---|---|---|
 | [`birth-control-context.md`](birth-control-context.md) | Why the no-hormonal-contraception choice matters for data interpretation | ✅ Available |
+| [`microbiome-and-endo.md`](microbiome-and-endo.md) | Vaginal + gut microbiome in endometriosis, the clinical detection gap, *Gardnerella* species discrimination, and the diagnostic-and-reimbursement-policy framing | ✅ Available |
 | `estrogen-metabolism.md` | Phase 1 / Phase 2 estrogen detoxification pathways | 🚧 Forthcoming — currently embedded in [protocols/01-estrogen-clearance/why-this-works.md](../protocols/01-estrogen-clearance/why-this-works.md) |
 | `endometriosis-biomarkers.md` | Blood biomarkers in endometriosis populations | 🚧 Forthcoming — currently embedded in [case-studies/001-core-restore-no-bc/biomarker-results.md](../case-studies/001-core-restore-no-bc/biomarker-results.md) |
 | `methylation-and-endo.md` | Methylation cycle + COMT + homocysteine in endo | 🚧 Forthcoming |
-| `microbiome-and-endo.md` | Vaginal + gut microbiome in endometriosis | 🚧 Available in [studies/001-evvy-surgery-recovery/research.md](../studies/001-evvy-surgery-recovery/research.md) |
 | `sauna-and-heat-therapy.md` | Sauna research summary | 🚧 Forthcoming — currently embedded in [case-studies/001-core-restore-no-bc/research.md](../case-studies/001-core-restore-no-bc/research.md) |
 
 ## How research is used in this repo

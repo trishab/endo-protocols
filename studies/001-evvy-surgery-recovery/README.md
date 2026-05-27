@@ -277,6 +277,6 @@ If you meet the inclusion criteria and want to join:
 
 [^11]: Ravel J et al. 2011 (see [^2]).
 
-**Additional references on detection-gap research, *Gardnerella* species discrimination, and microbiome-test reimbursement policy will be aggregated in [`../../research/microbiome-and-endo.md`](../../research/microbiome-and-endo.md) (forthcoming).**
+**Comprehensive bibliography** spanning vaginal-microbiome foundations, the clinical detection gap, *Gardnerella* species discrimination, vaginal microbiome × endometriosis, LPS/TLR4 pathway, surgical-outcome research, Netherlands- and Europe-based microbiome work, citizen-science precedents, HRV-as-inflammation-proxy, and the reimbursement-policy framing: → [`../../research/microbiome-and-endo.md`](../../research/microbiome-and-endo.md).
 
 **Full bibliography including Netherlands-based vaginal microbiome research, citizen-science precedents, and the LPS/TLR4 endo pathway: [`research.md`](research.md).**
