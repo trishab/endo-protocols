@@ -12,7 +12,19 @@ The data shown is real. Every mechanistic claim is cited to peer-reviewed litera
 
 - ✅ **I am sharing**: what I did, what was objectively measured, what the peer-reviewed research says about the underlying mechanisms, and what I'm personally choosing to do next.
 - ❌ **I am NOT claiming**: that any protocol in this repo will work for you, that any supplement will cure or treat endometriosis, that WHOOP-tracked improvements translate to clinical outcomes, or that I'm qualified to give individual medical advice.
-- ⚠️ **If you have endometriosis and are considering a detox protocol or elimination diet**, especially if you are on hormonal therapy, GnRH analogs, or NSAIDs, discuss it with your prescribing physician first. Some supplement ingredients (notably DIM, St. John's Wort, grapefruit-derived compounds) interact with cytochrome P450 enzymes and can alter medication levels.
+- ⚠️ **If you have endometriosis and are considering a detox protocol or elimination diet**, especially if you are on hormonal therapy, GnRH analogs, or NSAIDs, discuss it with your prescribing physician first.
+
+### ⚠️ Important: no hormonal contraception during this case work
+
+**All case studies and protocols in this repository were developed without hormonal contraception, hormonal endometriosis suppression, or HRT.** This was a deliberate choice to understand root-cause physiology — what the body does on its own — rather than measure interventions on top of a hormonally suppressed baseline.
+
+**This is not a recommendation against birth control.** Hormonal contraception is a valid tool many people with endo use successfully. The protocols here are generally compatible with concurrent BC use, but:
+
+- **A few supplements** referenced in this repo (notably DIM, calcium-D-glucarate, sulforaphane extracts in concentrated form, and St. John's Wort) **can theoretically alter synthetic hormone levels via the CYP450 enzyme system.** If you are on combined oral contraceptives, progestin-only methods, hormonal IUDs, GnRH agonists, or HRT, **discuss the full supplement list with your prescriber before starting any protocol.**
+- **Cycle-phase data shown in case studies reflects natural endogenous cycles.** Your physiological signatures on BC will differ. The protocol may still help, but the specific HRV, skin-temperature, and recovery patterns documented here are not what to expect if you're hormonally cycled.
+- **Never stop prescribed hormonal medication without medical supervision.**
+
+See [`research/birth-control-context.md`](research/birth-control-context.md) for the detailed scientific framing of why this choice was made and how it affects data interpretation.
 
 ## 💰 Affiliate relationships
 

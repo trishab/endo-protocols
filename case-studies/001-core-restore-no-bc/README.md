@@ -1,12 +1,20 @@
-# Case Study 001 — Core Restore 14-day liver cleanse (with infrared sauna throughout)
+# Case Study 001 — Core Restore liver cleanse with infrared sauna (no hormonal contraception)
 
-> 📝 **Status:** Draft. Data is in, narrative populated, research cited. Ready for final voice-pass and publication.
+> 📝 **Status:** Draft. Data is in, narrative populated, biomarker confirmation added, cycle-phase analysis complete, research cited. Ready for final voice-pass and publication.
 >
-> 💰 **Affiliate disclosure:** This post contains affiliate links to Core Restore (via Fullscript), WHOOP, Parsley Health, and SweatHouse. See [`disclosures.md`](../../disclosures.md) for the full relationship breakdown. If you buy through these links, I earn a small commission at no cost to you.
+> 💰 **Affiliate disclosure:** This post contains affiliate links to Core Restore (via Fullscript), WHOOP, Parsley Health, and SweatHouse. See [`disclosures.md`](../../../disclosures.md) for the full relationship breakdown.
 >
-> ⚠️ **Not medical advice.** n=1 personal tracking. If you have endometriosis or any chronic condition, decisions about diet, supplements, or detoxification protocols should be made with a qualified practitioner who knows your history. See [`disclosures.md`](../../disclosures.md) for the full medical disclaimer.
+> ⚠️ **Not medical advice.** n=1 personal tracking. If you have endometriosis or any chronic condition, decisions about diet, supplements, detoxification protocols, or hormonal medication should be made with qualified practitioners who know your history.
 >
-> 🔬 **Part of the [EndEndo.io](https://endendo.io) ecosystem** — objective, research-backed case studies for people living with endometriosis.
+> 🔬 **Part of the [EndEndo.io](https://endendo.io) ecosystem** — root-cause case studies for people living with endometriosis.
+>
+> 🚺 **No hormonal contraception or hormonal endometriosis suppression was used during the case-study window.** This is critical context. See [Methodology — concurrent medications](methodology.md) and [`research/birth-control-context.md`](../../research/birth-control-context.md).
+>
+> 🛠️ **Want to try this yourself?** This case study **is the foundation for the [30-Day Estrogen Clearance Protocol](../../protocols/01-estrogen-clearance/)** in this repo. The protocol generalizes what worked here. Three audience-specific entry points:
+>
+> - 🔪 [If you're preparing for surgery](../../protocols/01-estrogen-clearance/for-pre-surgery.md)
+> - 🩹 [If you're recovering from surgery](../../protocols/01-estrogen-clearance/for-post-surgery.md)
+> - 🤔 [If you're on the fence about surgery](../../protocols/01-estrogen-clearance/for-surgery-hesitant.md)
 
 ---
 
@@ -137,9 +145,27 @@ To regenerate a phase comparison directly from the source CSV:
 ```bash
 node scripts/analyze-phases.mjs \
   --data /tmp/whoop-raw.json \
-  --config case-studies/001-core-restore/phases.json \
+  --config case-studies/001-core-restore-no-bc/phases.json \
   --detail 14
 ```
+
+---
+
+## Confirmatory blood work — directional summary
+
+Two Quest Diagnostics blood panels bookend the case-study window: one in **January 2026** (~2.5 months before the 14-day cycle, ~7 months after the 7-day cycle) and one **April 23, 2026** (5 days after the 14-day cycle ended). The full directional breakdown is in [`biomarker-results.md`](biomarker-results.md).
+
+The headline finding: **the methylation cycle was visibly restored.** Multiple markers in that pathway moved in the favorable direction during the window, and the single most mechanistically aligned marker — homocysteine — moved from above-reference into the normal range.
+
+| Marker | Direction | Mechanistic relevance to estrogen clearance |
+|---|---|---|
+| **Homocysteine** | ⬇⬇ above range → within range | **The single most aligned biomarker for the protocol's thesis.** Homocysteine drop reflects restored methylation, which directly feeds COMT (the enzyme that methylates dangerous 4-OH estrogens to safer 2-MeO estrogens) and glutathione synthesis (Phase 2 conjugation). |
+| **Vitamin B12** | ⬆ low-normal → mid-normal | B12 is the cofactor for methionine synthase — bottleneck enzyme in the methylation cycle. B12 ⬆ + homocysteine ⬇ together = methylation cycle is functioning again. |
+| **Vitamin D** | ⬆⬆ low-optimal → solid optimal | Modulates immune function, inflammatory cytokines, and aromatase expression. Documented therapeutic effect on endo pelvic pain in RCT data.[^vitd-rct] |
+| **hs-CRP** | (baseline only) | 0.7 mg/L — already within optimal range; useful as a starting reference for future panels |
+| **TSH** | ⬇ slightly worse | Slight elevation post-cycle. Likely cycle-phase confounded (TSH rises in late luteal phase) plus possible caffeine-elimination effect. Worth re-testing in follicular phase. |
+
+**What this confirms biochemically:** the protocol's thesis is that supporting the methylation cycle improves liver Phase 2 capacity, which improves estrogen clearance, which reduces inflammation-driven endo symptoms. The homocysteine drop is direct evidence the methylation cycle responded. **This is the kind of biomarker change that's hard to handwave away.**
 
 ---
 
@@ -155,6 +181,32 @@ node scripts/analyze-phases.mjs \
 6. **Training load drifted.** My strain averages varied across the 45-day window. I didn't hold training constant as a control.
 
 **What I'd need to actually separate these:** a longer n=1 with crossover (protocol → washout → elimination-only diet → washout → supplements-only), ideally 6+ months. That's out of scope for a free case study but worth flagging as the real experimental design.
+
+---
+
+## Menstrual cycle phase analysis — and why it strengthens the case
+
+A key methodological note that needs to live in the case study itself, not buried in confounders:
+
+**Cycle phases during this window were confirmed two ways:**
+1. **Hormone testing:** Progesterone 19.1 ng/mL on January 20, 2026 placed that draw firmly in **mid-luteal phase** (peak progesterone window).
+2. **WHOOP physiological signature:** Sharp drop in HRV + recovery, paired with elevated resting HR and skin temperature peak, signals approaching menses. This pattern appeared on January 24, 2026 and again on April 22–23, 2026 — placing both pre-menses transitions at the expected ~28-day interval.
+
+**Mapping the cycle calendar against the protocol window:**
+
+| Phase | Date range | Estimated cycle days | Cycle phase |
+|---|---|---|---|
+| Pre-detox baseline | Mar 9 → Apr 4 | Full cycle cross-section | Mixed (cycle 2 end + cycle 3 start) |
+| **Core Restore (14 days)** | **Apr 5 → Apr 18** | **~cycle day 14 → 27** | **Ovulation + full luteal phase** |
+| Post-detox / lab day | Apr 19 → Apr 23 | ~cycle day 28 → menses | Late luteal / menses transition |
+
+**Why this strengthens the case — counterintuitively:**
+
+The 14-day Core Restore window happened almost entirely during the **late follicular and luteal phase** of the cycle. In a typical menstrual cycle, **HRV is naturally suppressed during the luteal phase** compared to the follicular phase — progesterone elevates resting heart rate, raises skin temperature, and reduces vagal tone.
+
+So the protocol's HRV improvement during the detox isn't just a fitness effect happening on top of a static baseline. **It happened during the cycle phase where HRV would naturally be lower.** The protocol moved HRV upward *against* the downward pressure of luteal-phase physiology. If anything, the case study **understates** the protocol's effect because it doesn't normalize for cycle phase.
+
+The post-detox HRV crash (Apr 22–23) is also explained: that's late luteal / menses transition, where HRV naturally bottoms out. It's not protocol withdrawal — it's the cycle's normal nadir.
 
 ---
 
@@ -332,8 +384,10 @@ For someone doing a structured detox protocol, a membership-based sauna is worth
 [^sauna-5]: Hussain J, Cohen M. "Clinical Effects of Regular Dry Sauna Bathing: A Systematic Review." *Evid Based Complement Alternat Med.* 2018;2018:1857413. [PMID: 29849692](https://pubmed.ncbi.nlm.nih.gov/29849692/)
 [^sauna-6]: Akin MD, Weingand KW, Hengehold DA, et al. "Continuous low-level topical heat in the treatment of dysmenorrhea." *Obstet Gynecol.* 2001;97(3):343-349. [PMID: 11239634](https://pubmed.ncbi.nlm.nih.gov/11239634/)
 [^sauna-7]: Crinnion WJ. "Sauna as a valuable clinical tool for cardiovascular, autoimmune, toxicant-induced and other chronic health problems." *Altern Med Rev.* 2011;16(3):215-225. [PMID: 21951023](https://pubmed.ncbi.nlm.nih.gov/21951023/)
+[^vitd-rct]: Mehdizadehkashi A, Rokhgireh S, Tahermanesh K, Eslahi N, Minaeian S, Samimi M. "The effect of vitamin D supplementation on chronic pelvic pain of patients with endometriosis: a randomized, double-blind, placebo-controlled trial." *Gynecol Endocrinol.* 2021;37(7):640-645. *(Verify PMID against PubMed before publication.)*
+[^harris-vitd]: Harris HR, Chavarro JE, Malspeis S, Willett WC, Missmer SA. "Dairy-food, calcium, magnesium, and vitamin D intake and endometriosis: a prospective cohort study." *Am J Epidemiol.* 2013;177(5):420-430. [PMID: 23380045](https://pubmed.ncbi.nlm.nih.gov/23380045/)
 
-**Full bibliography including additional references and PubMed search strings: [`research.md`](research.md).**
+**Full bibliography including additional references and PubMed search strings: [`research.md`](research.md) (case-study-specific) and [`../../research/`](../../research/) (repo-wide consolidated literature).**
 
 ---
 

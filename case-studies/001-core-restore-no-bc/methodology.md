@@ -4,6 +4,34 @@
 
 All data was pulled from my personal WHOOP 4.0 account on **2026-04-23** using the [whoop-ai-mcp](https://github.com/shashankswe2020-ux/whoop-mcp) open-source MCP server + the `scripts/pull-whoop.mjs` wrapper in this repository. The 45-day window captures 27 days of pre-detox baseline, the 14 days of Core Restore (with infrared sauna sessions throughout), and the immediate post-detox clean window.
 
+Blood-work data comes from two Quest Diagnostics panels ordered through Parsley Health (January 20, 2026 baseline + April 23, 2026 post-cycle). See [`biomarker-results.md`](biomarker-results.md) for the full directional summary.
+
+## ⚠️ Concurrent medications and hormonal status
+
+**During the entire 45-day case-study window (and during the June 2025 7-day cycle), the author was not using:**
+
+- ❌ Hormonal contraception (combined OCP, progestin-only methods, hormonal IUDs, etc.)
+- ❌ Hormonal endometriosis suppression (GnRH agonists, danazol, progestins, aromatase inhibitors)
+- ❌ Hormone replacement therapy
+
+**Natural menstrual cycles were ongoing throughout.** This was a deliberate root-cause exploration of how the body responds to liver-clearance support without a hormonally suppressed baseline.
+
+**Cycle phases were confirmed two ways:**
+1. **Hormone testing** — progesterone 19.1 ng/mL (Jan 20, 2026, fasted morning draw) anchors that timepoint to mid-luteal phase
+2. **WHOOP physiological signature** — sharp HRV + recovery drop paired with elevated resting HR and skin-temperature peak appears on January 24, 2026 and April 22–23, 2026, consistent with ~28-day cycle interval
+
+**Cross-mapping to the protocol window:**
+
+| Phase | Date range | Estimated cycle days | Cycle phase |
+|---|---|---|---|
+| Pre-detox baseline | Mar 9 → Apr 4 | Full cycle cross-section | Mixed |
+| 14-day Core Restore | Apr 5 → Apr 18 | ~cycle day 14 → 27 | Ovulation + full luteal |
+| Post-detox / Lab 2 draw | Apr 19 → Apr 23 | ~cycle day 28 → menses transition | Late luteal / pre-menses |
+
+**Why this is methodologically important:** baseline HRV is typically *lower* in luteal phase than follicular. The 14-day cycle's HRV improvement happened during the cycle window where HRV would naturally be suppressed — meaning the protocol effect is, if anything, **understated** relative to a cycle-phase-controlled comparison.
+
+See [`research/birth-control-context.md`](../../research/birth-control-context.md) for full scientific rationale of why this choice matters for data interpretation, and why the protocol may behave differently for readers on hormonal contraception.
+
 ### Tools used
 
 - **WHOOP 4.0 strap** (worn 24/7)

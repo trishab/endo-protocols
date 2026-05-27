@@ -1,7 +1,7 @@
 {
-  "name": "diet-signal",
-  "version": "0.1.0",
-  "description": "Objective physiological data + honest protocol reporting. WHOOP-backed n=1 case studies.",
+  "name": "endo-protocols",
+  "version": "0.2.0",
+  "description": "Evidence-based, replicable protocols and n=1 case studies for endometriosis and adenomyosis — root-cause framework, no hormonal contraception, wearable-tracked.",
   "type": "module",
   "private": true,
   "engines": {

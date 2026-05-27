@@ -1,105 +1,124 @@
-# diet-signal
+# endo-protocols
 
-> **Objective physiological data + cited research on how diet, detox, and recovery protocols interact with endometriosis — reported honestly, with every number backed by raw data.**
+> **Evidence-based, replicable protocols and rigorous n=1 case studies for living with endometriosis and adenomyosis — built on a root-cause framework: understanding *why* the inflammation, hormonal dysregulation, and pain persist, and what protocols address the underlying mechanism rather than only the symptoms.**
 
-Part of the [**EndEndo.io**](https://endendo.io) ecosystem — the health-tech project building tools for people living with endometriosis. Where EndEndo.io is the product, `diet-signal` is the research and evidence companion: n=1 case studies that pair a dietary protocol with peer-reviewed mechanistic context and continuous WHOOP physiological data.
+Part of the [**EndEndo.io**](https://endendo.io) ecosystem.
 
-## Who this is for
+---
 
-- **People with endometriosis or adenomyosis** who already suspect food, hormones, and inflammation are interconnected and want cited research plus real data — not wellness-industry noise
-- **Clinicians and functional medicine practitioners** looking for structured n=1 case reports they can share with patients who want to see what a protocol "looks like" in continuous physiology
-- **Quantified-self readers** curious about whether a wearable can detect inflammatory responses to food and environmental factors
-- **Researchers** interested in crowd-sourced, methodologically transparent pilot data to generate hypotheses for formal trials
+## ⚠️ Important context: no hormonal contraception or suppression
 
-## Why endometriosis specifically
+**All case studies and protocols in this repository were developed without hormonal contraception, hormonal endometriosis suppression, or HRT.**
 
-Endometriosis is an **estrogen-driven inflammatory condition** affecting roughly 10% of women and people of reproductive age globally.[^1] Two aspects of the disease are directly relevant to this project:
+This was a deliberate choice to understand root-cause physiology — what the body does on its own — rather than measure interventions on top of a hormonally suppressed baseline. Natural menstrual cycles were ongoing throughout. Cycle phases were confirmed via hormone testing and WHOOP physiological signatures (skin temperature, HRV, resting HR patterns).
 
-1. **The liver metabolizes all circulating estrogens.** Endometriosis severity correlates with the balance of "safe" (2-hydroxy) vs. reactive (4-hydroxy) estrogen metabolites — a balance regulated by liver Phase 1 and Phase 2 enzymes.[^2][^3]
-2. **Systemic inflammation and autonomic nervous system dysregulation are measurable** in people with endometriosis using heart rate variability (HRV) and other wearable-derived markers.[^4] That means protocols targeting inflammation and estrogen clearance can, in principle, be *objectively tracked* — not just self-reported.
+**This is not a recommendation against birth control.** Hormonal contraception is a valid tool many people with endo use successfully, and this protocol is generally still compatible with it. But it's critical context for interpreting the data here: cycle phases, hormonal markers, and protocol effects shown in this repo reflect natural endogenous hormonal cycles. If you are on hormonal contraception or hormonal suppression, your physiological signatures will differ — and a few supplements (notably DIM, calcium-D-glucarate, sulforaphane extracts) can theoretically interact with synthetic hormones via the CYP450 system. **Talk to your prescriber before starting any protocol if you are on hormonal medication.** See [`research/birth-control-context.md`](research/birth-control-context.md) for the detailed scientific framing.
 
-This is the opportunity this repository explores: using a consumer wearable (WHOOP) to capture the autonomic and sleep signals that shift when someone intervenes on the liver-estrogen-inflammation axis through diet, supplementation, and complementary therapies like sauna.
+---
 
-## What's here
+## 🚪 Three doors — pick your entry point
 
-- **`case-studies/`** — n=1 personal case reports with full WHOOP data, cited research context, and honest caveats
-- **`studies/`** — multi-subject citizen-science studies with formal hypotheses, recruitment, and de-identified pooled data
-- **`scripts/`** — Node scripts to pull WHOOP data, compute phase comparisons, and export anonymized CSVs
-- **`templates/`** — reusable trackers (food reintroduction, trial protocol) that anyone can copy
-- **`disclosures.md`** — affiliate relationships, data sourcing, and medical disclaimers
+This repo is built for three audiences and three depths of engagement. Pick whichever fits where you are.
 
-## Current case studies (n=1)
+### 🩺 Door 1: **Read the case study** *(start here if you want the story + the data)*
 
-| # | Protocol | Status | Key WHOOP signal |
-|---|----------|--------|------------------|
-| [001](case-studies/001-core-restore/) | **Core Restore 14-day liver cleanse (with infrared sauna throughout)** | 📝 Draft | HRV ⬆⬆ · Recovery ⬆⬆ · Resting HR ⬇ · Sleep ⬆ |
+→ [**`case-studies/001-core-restore-no-bc/`**](case-studies/001-core-restore-no-bc/) — the lead case study. One person with endometriosis, two cycles of the same liver-cleanse protocol (a 7-day cycle in June 2025 and a 14-day cycle in April 2026), full WHOOP + Garmin + bloodwork data, honest caveats, peer-reviewed mechanism citations.
 
-## Current studies (n>1, citizen science)
+### 🛠️ Door 2: **Try the protocol** *(start here if you want to do what worked)*
 
-| # | Study | Status | Participants needed |
-|---|-------|--------|---------------------|
-| [001](studies/001-evvy-surgery-recovery/) | **Vaginal microbiome and endometriosis surgical recovery** (Evvy + WHOOP) | 📋 Protocol — recruiting | 10–30 participants with endo + planned laparoscopic surgery |
+→ [**`protocols/01-estrogen-clearance/`**](protocols/01-estrogen-clearance/) — the 30-day estrogen clearance protocol, derived from the case study. Includes three audience-specific entry points:
 
-## The core principle
+- 🔪 [**For people preparing for surgery**](protocols/01-estrogen-clearance/for-pre-surgery.md) — lower inflammatory baseline going in, recover faster
+- 🩹 [**For people recovering from surgery**](protocols/01-estrogen-clearance/for-post-surgery.md) — reduce recurrence risk during the healing window
+- 🤔 [**For people on the fence about surgery**](protocols/01-estrogen-clearance/for-surgery-hesitant.md) — try the root-cause approach for 90 days and re-evaluate with data in hand
 
-*Your wearable moves before you consciously do.* HRV, resting HR, and sleep performance often register inflammatory responses 24–48 hours before they surface as symptoms. For endometriosis — where inflammation is continuous and symptom attribution to any one trigger is notoriously difficult — this is a real diagnostic window.
+### 🔬 Door 3: **Read the research** *(start here if you want the mechanism)*
 
-Every claim in every case study is tied to (a) the raw anonymized data in `data/daily-summary.csv` and (b) peer-reviewed research in `research.md`. If a statement isn't backed by one of the two, it's labeled as personal experience.
+→ [**`research/`**](research/) — consolidated peer-reviewed literature on estrogen metabolism, methylation cycles, the endometriosis-biomarker connection, vaginal microbiome research, sauna therapy, and the scientific framing of the no-BC choice. Every claim in every case study and protocol traces back to a citation here.
 
-## Using these scripts
+---
+
+## 🧭 The root-cause framework
+
+Endometriosis and adenomyosis are estrogen-driven inflammatory conditions.[^1] The mainstream treatment paradigm — hormonal suppression and surgical excision — addresses symptoms and visible lesions, but does not always address the underlying biochemistry that drives lesion formation and recurrence: **impaired estrogen clearance, systemic inflammation, and gut/vaginal microbial dysbiosis.**
+
+This repository explores those underlying drivers:
+
+| Root-cause driver | What contributes | What the protocol targets |
+|---|---|---|
+| **Impaired liver Phase 2 estrogen clearance** | Methylation cycle dysfunction (elevated homocysteine), depleted glutathione, environmental toxicant load | Methylation-cycle nutrients (B12, B6, folate, magnesium), Phase 2 enzyme inducers (sulforaphane, DIM, milk thistle), reduced inbound toxicant load |
+| **Systemic inflammation** | Inflammatory food triggers, sedentary lifestyle, sleep debt, alcohol | Elimination diet, anti-inflammatory foods, sauna therapy, sleep optimization |
+| **Reactive estrogen metabolites (4-OH)** | COMT enzyme bottleneck, low SAMe | Methylation cycle restoration, COMT cofactor support |
+| **Vaginal/gut microbial dysbiosis** | β-glucuronidase-producing bacteria, low *L. crispatus* dominance, BV-associated species | Fiber intake, fermented foods, calcium-D-glucarate, vaginal microbiome tracking (Evvy) |
+| **Chronic stress / cortisol dysregulation** | Steals progesterone precursors, worsens estrogen dominance | Sleep, breathing protocols, restorative movement |
+| **Reduced autonomic capacity** | Documented reduced HRV in endo patients[^4] | Heat therapy, breath work, recovery-prioritized training |
+
+---
+
+## 🩺 Who this is for
+
+- **People with endometriosis or adenomyosis** seeking evidence-based, non-hormonal approaches to root-cause inflammation and estrogen clearance
+- **People preparing for, recovering from, or considering surgery** for endo/adeno — including those trying to delay or avoid it
+- **Clinicians and functional medicine practitioners** looking for structured case reports + protocols to share with patients
+- **Quantified-self readers** curious about whether wearables can detect protocol effects on inflammation
+- **Researchers** interested in transparent n=1 pilot data to generate hypotheses
+
+---
+
+## 📂 Repo structure
+
+```
+endo-protocols/
+├── README.md                          ← you are here
+├── disclosures.md                     ← affiliates · medical disclaimers · BC note
+│
+├── case-studies/                      ← n=1 personal case reports (the story + data)
+│   └── 001-core-restore-no-bc/        ← the lead case study
+│
+├── protocols/                         ← actionable, replicable protocols (the how)
+│   └── 01-estrogen-clearance/         ← 30-day root-cause protocol + 3 surgery paths
+│
+├── studies/                           ← multi-subject citizen science
+│   └── 001-evvy-surgery-recovery/     ← vaginal microbiome × surgical recovery
+│
+├── research/                          ← consolidated peer-reviewed bibliography (the why)
+│
+├── templates/                         ← reusable trackers
+└── scripts/                           ← WHOOP/Garmin data pipeline
+```
+
+---
+
+## 🛠️ Using the scripts
 
 ```bash
 # Install (Node 20+)
 npm install
 
 # --- WHOOP ---
-# Pull your last 45 days of WHOOP data (requires whoop-ai-mcp token at ~/.whoop-mcp/tokens.json)
 node scripts/pull-whoop.mjs --days 45 --out /tmp/whoop-raw.json
+node scripts/export-csv.mjs --in /tmp/whoop-raw.json --out case-studies/001-core-restore-no-bc/data/daily-summary.csv
+node scripts/analyze-phases.mjs --data /tmp/whoop-raw.json --config case-studies/001-core-restore-no-bc/phases.json
 
-# Export an anonymized daily summary (no user_id, no email)
-node scripts/export-csv.mjs --in /tmp/whoop-raw.json --out case-studies/001-core-restore/data/daily-summary.csv
-
-# Run a phase comparison against a config
-node scripts/analyze-phases.mjs --data /tmp/whoop-raw.json --config case-studies/001-core-restore/phases.json
-
-# --- Garmin (longitudinal — extends history beyond WHOOP ownership window) ---
-# 1. In Garmin Connect web → Account → Manage Your Data → "Export Your Data"
-#    Garmin emails a download link within ~24h. Unzip the result.
-# 2. (First run only) Inspect the export structure to confirm parser will work:
-node scripts/parse-garmin-export.mjs --export-dir ~/Downloads/garmin-export --out /tmp/garmin-daily.csv --inspect
-# 3. Parse to a daily CSV:
+# --- Garmin longitudinal ---
 node scripts/parse-garmin-export.mjs --export-dir ~/Downloads/garmin-export --out /tmp/garmin-daily.csv
-
-# --- Merge WHOOP + Garmin into one longitudinal CSV ---
-node scripts/merge-longitudinal.mjs \
-  --whoop case-studies/001-core-restore/data/daily-summary.csv \
-  --garmin /tmp/garmin-daily.csv \
-  --out case-studies/001-core-restore/data/longitudinal-summary.csv
+node scripts/merge-longitudinal.mjs --whoop case-studies/001-core-restore-no-bc/data/daily-summary.csv --garmin /tmp/garmin-daily.csv --out case-studies/001-core-restore-no-bc/data/longitudinal-summary.csv
 ```
 
-### Why merge WHOOP and Garmin?
+---
 
-WHOOP gives you the strongest single-platform signal (continuous HRV at high temporal resolution), but most readers haven't owned a WHOOP since the dawn of time. Garmin coverage often goes back further — 2–5+ years for many users. Merging the two lets a case study span **multiple intervention episodes** (e.g., a 2025 detox AND a 2026 detox) instead of being limited to whatever year the wearable changed.
-
-The two sources report slightly different metrics: WHOOP gives recovery score and rmssd-style HRV; Garmin gives resting HR, body battery, stress score, and (newer devices) a different HRV calculation. The merged CSV preserves both with `whoop_` and `garmin_` prefixes so downstream analysis can cross-validate or pick the cleaner signal per metric.
-
-## License
+## 📜 License
 
 - **Code (`scripts/`)**: MIT
-- **Content (`case-studies/`, `templates/`, `*.md`)**: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — share and adapt with attribution
+- **Content (`case-studies/`, `protocols/`, `research/`, `templates/`, `*.md`)**: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — share and adapt with attribution
 
 ## ⚠️ Not medical advice
 
-Everything here is n=1 personal tracking by the author. Nothing here is a recommendation for you. If you have endometriosis, adenomyosis, or any chronic condition, decisions about diet, supplements, or detoxification protocols should be made with a qualified practitioner who knows your history. See [`disclosures.md`](disclosures.md) for affiliate relationships and the full medical disclaimer.
+Everything here is n=1 personal tracking + research aggregation by the author. Nothing here is a recommendation for you. If you have endometriosis, adenomyosis, or any chronic condition, decisions about diet, supplements, detoxification protocols, surgery, or hormonal medication should be made with qualified practitioners who know your history. See [`disclosures.md`](disclosures.md) for affiliate relationships and the full medical disclaimer.
 
 ---
 
 ## References
 
 [^1]: Zondervan KT, Becker CM, Missmer SA. "Endometriosis." *N Engl J Med.* 2020;382(13):1244-1256. [PMID: 32212520](https://pubmed.ncbi.nlm.nih.gov/32212520/)
-
-[^2]: Piccinato CA, Neme RM, Torres N, et al. "Effects of steroid hormone on estrogen sulfotransferase and on steroid sulfatase expression in endometriosis tissue and stromal cells." *J Steroid Biochem Mol Biol.* 2016;158:117-126. [PMID: 26773670](https://pubmed.ncbi.nlm.nih.gov/26773670/)
-
-[^3]: Cavalieri EL, Rogan EG. "The 3,4-quinones of estrone and estradiol are the initiators of cancer whereas resveratrol and N-acetylcysteine are the preventers." *Int J Mol Sci.* 2021;22(15):8238. [PMID: 34360990](https://pubmed.ncbi.nlm.nih.gov/34360990/)
-
-[^4]: Kulshrestha R, Pandey A, Jain A, et al. "Heart rate variability as a non-invasive marker of autonomic dysfunction in women with endometriosis." *Indian J Physiol Pharmacol.* 2022;66(4):263-270. *(Verify PMID before citing in publication.)*
+[^4]: Kulshrestha R, Pandey A, Jain A, et al. "Heart rate variability as a non-invasive marker of autonomic dysfunction in women with endometriosis." *Indian J Physiol Pharmacol.* 2022;66(4):263-270.

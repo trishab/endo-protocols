@@ -1,4 +1,4 @@
-# Project: diet-signal
+# Project: endo-protocols
 
 A public-facing GitHub repo hosting n=1 case studies that pair a diet or cleanse protocol with cited peer-reviewed research and continuous WHOOP physiological data. **This repo is part of the EndEndo.io ecosystem** — sister project to the EndEndo health-tech product, focused specifically on helping people with endometriosis and adenomyosis make evidence-based decisions about diet, detox, and recovery.
 
