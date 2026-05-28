@@ -162,7 +162,7 @@ The headline finding: **the methylation cycle was visibly restored.** Multiple m
 | **Homocysteine** | ⬇⬇ above range → within range | **The single most aligned biomarker for the protocol's thesis.** Homocysteine drop reflects restored methylation, which directly feeds COMT (the enzyme that methylates dangerous 4-OH estrogens to safer 2-MeO estrogens) and glutathione synthesis (Phase 2 conjugation). |
 | **Vitamin B12** | ⬆ low-normal → mid-normal | B12 is the cofactor for methionine synthase — bottleneck enzyme in the methylation cycle. B12 ⬆ + homocysteine ⬇ together = methylation cycle is functioning again. |
 | **Vitamin D** | ⬆⬆ low-optimal → solid optimal | Modulates immune function, inflammatory cytokines, and aromatase expression. Documented therapeutic effect on endo pelvic pain in RCT data.[^vitd-rct] |
-| **hs-CRP** | (baseline only) | 0.7 mg/L — already within optimal range; useful as a starting reference for future panels |
+| **hs-CRP** | (baseline only) | Within optimal range — useful as a starting reference for future panels |
 | **TSH** | ⬇ slightly worse | Slight elevation post-cycle. Likely cycle-phase confounded (TSH rises in late luteal phase) plus possible caffeine-elimination effect. Worth re-testing in follicular phase. |
 
 **What this confirms biochemically:** the protocol's thesis is that supporting the methylation cycle improves liver Phase 2 capacity, which improves estrogen clearance, which reduces inflammation-driven endo symptoms. The homocysteine drop is direct evidence the methylation cycle responded. **This is the kind of biomarker change that's hard to handwave away.**
@@ -189,7 +189,7 @@ The headline finding: **the methylation cycle was visibly restored.** Multiple m
 A key methodological note that needs to live in the case study itself, not buried in confounders:
 
 **Cycle phases during this window were confirmed two ways:**
-1. **Hormone testing:** Progesterone 19.1 ng/mL on January 20, 2026 placed that draw firmly in **mid-luteal phase** (peak progesterone window).
+1. **Hormone testing:** A January 2026 fasted-morning progesterone draw fell within the **upper luteal-phase reference range**, placing that draw firmly in **mid-luteal phase** (peak progesterone window).
 2. **WHOOP physiological signature:** Sharp drop in HRV + recovery, paired with elevated resting HR and skin temperature peak, signals approaching menses. This pattern appeared on January 24, 2026 and again on April 22–23, 2026 — placing both pre-menses transitions at the expected ~28-day interval.
 
 **Mapping the cycle calendar against the protocol window:**

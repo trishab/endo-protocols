@@ -5,7 +5,7 @@ Confirmatory blood-work analysis for the Core Restore liver-cleanse case study. 
 - **Lab 1 (pre-cycle baseline):** January 20, 2026 — comprehensive panel including CBC, CMP, ApoB, homocysteine, hs-CRP, full thyroid panel, hormones (estradiol, progesterone, estrone, testosterone, DHEA-S), vitamin D, vitamin B12, ferritin, lipoprotein(a), insulin, magnesium RBC
 - **Lab 2 (post-cycle):** April 23, 2026 (5 days after the 14-day Core Restore ended) — homocysteine, thyroid panel, vitamin B12, vitamin D, methylmalonic acid, gliadin antibodies, tissue transglutaminase, DHEA-S, immunoglobulin A
 
-> 🚺 **Cycle phase confirmation:** Lab 1 progesterone (19.1 ng/mL) places it in mid-luteal phase. Lab 2 was drawn during late luteal / menses transition (confirmed by WHOOP physiological signature). Cycle-phase confounding is named explicitly per marker below.
+> 🚺 **Cycle phase confirmation:** Lab 1 progesterone fell within the **upper luteal-phase reference range**, placing it in mid-luteal phase. Lab 2 was drawn during late luteal / menses transition (confirmed by WHOOP physiological signature). Cycle-phase confounding is named explicitly per marker below.
 
 > 📊 **Directional signage convention.** This document preserves direction and magnitude without exposing personal numeric values. Raw lab PDFs are stored privately, not committed to this repo. Reference ranges shown to anchor the directional read.
 
@@ -80,7 +80,7 @@ This is direct biochemical confirmation that the protocol's *intended* mechanism
 
 | Group | Status | Notes |
 |---|---|---|
-| **Comprehensive metabolic panel** (glucose, BUN, creatinine, eGFR, electrolytes, calcium, protein, albumin, bilirubin, liver enzymes ALT/AST/ALP) | All within range | Glucose 82 (fasting). ALT/AST low-normal — no liver enzyme elevation. eGFR 86 — normal kidney function. |
+| **Comprehensive metabolic panel** (glucose, BUN, creatinine, eGFR, electrolytes, calcium, protein, albumin, bilirubin, liver enzymes ALT/AST/ALP) | All within range | Fasting glucose within range. ALT/AST low-normal — no liver enzyme elevation. eGFR within range — normal kidney function. |
 | **CBC with differential** | All within range except hematocrit slightly above (likely hydration-related) | WBC, RBC, hemoglobin, platelets all normal. Hematocrit slightly elevated is most often dehydration. |
 | **Lipid panel (Lipoprotein(a))** | Optimal | Lp(a) very low — cardiovascular risk marker, optimal at baseline. |
 | **Magnesium RBC** | Mid-range | Cellular magnesium status adequate — important context because magnesium is a cofactor for methylation. |

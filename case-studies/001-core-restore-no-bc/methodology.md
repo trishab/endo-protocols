@@ -17,7 +17,7 @@ Blood-work data comes from two Quest Diagnostics panels ordered through Parsley 
 **Natural menstrual cycles were ongoing throughout.** This was a deliberate root-cause exploration of how the body responds to liver-clearance support without a hormonally suppressed baseline.
 
 **Cycle phases were confirmed two ways:**
-1. **Hormone testing** — progesterone 19.1 ng/mL (Jan 20, 2026, fasted morning draw) anchors that timepoint to mid-luteal phase
+1. **Hormone testing** — a January 2026 fasted-morning progesterone draw in the **upper luteal-phase reference range** anchors that timepoint to mid-luteal phase
 2. **WHOOP physiological signature** — sharp HRV + recovery drop paired with elevated resting HR and skin-temperature peak appears on January 24, 2026 and April 22–23, 2026, consistent with ~28-day cycle interval
 
 **Cross-mapping to the protocol window:**
