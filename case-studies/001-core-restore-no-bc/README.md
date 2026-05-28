@@ -151,15 +151,25 @@ node scripts/analyze-phases.mjs \
 
 ---
 
-## 🧬 The integrative framework — liver-side AND microbiome-side estrogen clearance
+## 🧬 The integrative framework — liver-side AND microbiome-side estrogen clearance (hypothesis-generating)
 
-> **This case study is not a "liver detox" story in isolation.** It's one half of an integrative thesis: that effective estrogen clearance in endometriosis requires addressing both liver Phase 2 capacity (this case study) AND microbiome-mediated recirculation of cleared estrogens (parallel Study 001, Evvy + WHOOP).
+> **This case study is built around a hypothesis-generating integrative thesis:** that estrogen clearance in endometriosis depends on both liver Phase 2 capacity AND microbiome-mediated handling of cleared estrogens. The published research supports each leg separately. **The case study does not directly measure whether the two interact in this particular author's physiology.**
 >
-> Bacteria in the gut and vagina produce **β-glucuronidase** (and sulfatase) — enzymes that deconjugate already-cleared estrogens and return them to circulation, undoing the liver's Phase 2 work. A Phase 2 intervention that improves homocysteine, restores methylation, and upregulates conjugation enzymes will produce *less than its full potential effect* if the microbiome is simultaneously hydrolyzing the conjugates.
+> **What the published research establishes (well-supported):**
 >
-> The author's vaginal microbiome data (Evvy mNGS, see [Study 001 pilot data](../../studies/001-evvy-surgery-recovery/README.md)) shows roughly half of the community composition has β-glucuronidase or sulfatase activity (Gardnerella spp., Prevotella spp., Atopobium / Fannyhessea, Megasphaera, Sneathia). The biomarker improvements documented below are **real and meaningful, AND they happened against a continuing microbiome-driven estrogen-reactivation pressure.** Both mechanisms are part of the same disease biology.
+> - Bacteria in the gut and vagina produce β-glucuronidase and sulfatase enzymes that *in vitro* deconjugate hepatically cleared estrogens (Baker 2017 estrobolome review; decades of microbial biochemistry)
+> - CST-IV-equivalent communities have higher β-glucuronidase enzymatic activity than *L. crispatus*-dominant communities in measurement studies
+> - Endometriosis populations have higher rates of CST-IV-equivalent dysbiosis than control populations (Ata 2019, Salliss 2021)
 >
-> **For the full mechanistic walkthrough — the published research supporting each leg of the argument, why the integrative cohort research is sparse, and the implications for clinical care and protocol design — see [`microbiome-estrogen-axis.md`](microbiome-estrogen-axis.md).**
+> **What is biologically plausible but NOT directly measured in this case study:**
+>
+> - That the author's specific microbiome was actively performing β-glucuronidase deconjugation at the time of the Core Restore protocol
+> - That the protocol's biomarker effects were quantitatively dampened by parallel microbial reactivation
+> - That addressing both axes would produce a measurably larger effect than addressing the liver axis alone in this author's case
+>
+> The author's vaginal microbiome data ([Study 001 pilot data](../../studies/001-evvy-surgery-recovery/README.md), May 2024 + November 2024 retest) shows approximately half of the community composition has β-glucuronidase or sulfatase enzymatic potential. **A current Evvy retest during or after the April 2026 Core Restore is not part of this case study's data, so whether the microbiome state shifted during the protocol is unknown.**
+>
+> **The integrative thesis is therefore hypothesis-generating, not hypothesis-confirming, in this case study.** It is grounded in published mechanism for each component. It motivates the broader citizen-science Study 001 cohort design (which IS structured to test the framework prospectively). For the full mechanistic walkthrough, the research-gap framing, and what future research would need to measure to confirm or falsify the integrative thesis, see [`microbiome-estrogen-axis.md`](microbiome-estrogen-axis.md).
 
 ---
 

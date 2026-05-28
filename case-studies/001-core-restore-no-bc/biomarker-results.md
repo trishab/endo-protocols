@@ -97,19 +97,32 @@ What it does establish: **multiple biomarkers moved in the direction predicted b
 
 ---
 
-## 🧬 An important caveat — these biomarker shifts happened against ongoing microbiome-driven estrogen recirculation
+## 🧬 What this case study did NOT measure (and why it matters)
 
-The biomarker improvements documented above (homocysteine ⬇⬇, B12 ⬆, vitamin D ⬆⬆) are real and reflect restored hepatic Phase 2 capacity. But they tell only **half** of the estrogen-clearance story.
+Honest scope-setting before discussing the parallel microbiome data: this case study is a **hepatic Phase 2 case report**. It documents biomarker shifts (homocysteine ⬇⬇, B12 ⬆, vitamin D ⬆⬆) that reflect restored hepatic methylation cycle and Phase 2 capacity. **It does not directly characterize whether microbiome-driven β-glucuronidase activity was simultaneously attenuating those effects.**
 
-The author's parallel vaginal microbiome characterization ([Study 001 pilot data](../../studies/001-evvy-surgery-recovery/README.md)) shows a CST-IV dysbiotic pattern with roughly half the community composition having **β-glucuronidase and/or sulfatase enzymatic activity** (Gardnerella spp., Prevotella spp., Atopobium / Fannyhessea, Megasphaera, Sneathia). These enzymes deconjugate already-cleared estrogens and return them to circulation, undoing some of the Phase 2 work the bloodwork above documents.
+Specifically, the following measurements were NOT performed during the case-study window and would be required to test the integrative microbiome × estrogen-clearance thesis directly:
 
-**This means:**
+| Not measured | Why it would matter |
+|---|---|
+| **β-glucuronidase enzyme activity** (urine or stool) | Would quantify whether bacterial deconjugation was actually occurring at clinically meaningful levels during the protocol, vs. just being theoretically present based on species composition |
+| **DUTCH Complete urine hormone metabolite panel** | Would show whether 2-OH / 4-OH / 2-MeO estrogen ratios shifted in directions consistent with Phase 2 improvement; could indicate whether the COMT methylation pathway was effectively delivering substrate |
+| **Vaginal microbiome retest during or immediately after Core Restore** | Would show whether the protocol itself shifted the vaginal community composition; the most recent Evvy data is from ~17 months before the Core Restore (May / Nov 2024) |
+| **Gut microbiome characterization** | Would show whether gut estrobolome composition could account for any residual estrogen recirculation; gut β-glucuronidase activity is the larger-magnitude estrobolome effect in most populations |
+| **Serum free estrogen + estrogen-binding-globulin status** | Would help separate "more conjugated, less free" (Phase 2 working) from "less conjugated, more free" (microbiome reactivating) |
 
-- The Phase 2 hepatic improvements measured here likely *understate* the magnitude of the biological response, because the same protocol that improved Phase 2 capacity did not directly address the parallel microbiome-side reactivation pathway
-- A Phase 2 intervention paired with a microbiome restoration intervention should — in principle — produce larger net estrogen clearance than either alone
-- The protocol in this repository ([`protocols/01-estrogen-clearance/`](../../protocols/01-estrogen-clearance/)) addresses both axes for this reason
+## 🧬 The biomarker shifts and the parallel microbiome data are not yet directly linked
 
-**For the full mechanistic walkthrough — including published research supporting each leg separately, the research-gap framing on why integrative cohort studies do not yet exist, and the implications for clinical care — see [`microbiome-estrogen-axis.md`](microbiome-estrogen-axis.md).**
+The author's vaginal microbiome characterization ([Study 001 pilot data](../../studies/001-evvy-surgery-recovery/README.md), May 2024 + Nov 2024 retest) shows a CST-IV dysbiotic pattern with roughly half the community composition having **β-glucuronidase and/or sulfatase enzymatic potential** (Gardnerella spp., Prevotella spp., Atopobium / Fannyhessea, Megasphaera, Sneathia). On published mechanism, these species' enzymes deconjugate cleared estrogens *in vitro*.
+
+**Whether they were actively doing so in this author's body during the Core Restore protocol — and at what magnitude — is not measured by this case study.**
+
+That distinction matters for two reasons:
+
+1. **Scientific integrity.** The biomarker improvements are documented. The hypothesis that microbiome reactivation was attenuating them is biologically plausible based on published mechanism, but it is a hypothesis, not a finding. The case study should not be read as confirming the integrative thesis; it generates the hypothesis that future research could confirm.
+2. **Clinical implication for the reader.** A reader of this case study should not assume their own Phase 2 intervention will be similarly attenuated. Their microbiome composition + β-glucuronidase activity + Phase 2 capacity could all differ from the author's, and the interaction has not been quantified in any patient population.
+
+**For the full discussion of the integrative thesis, what the published research supports separately for each axis, why the integrative cohort research is sparse, and what specific future measurements would test the framework — see [`microbiome-estrogen-axis.md`](microbiome-estrogen-axis.md).** That document explicitly frames the dual-axis thesis as hypothesis-generating, with concrete recommendations for the empirical research design that would move it to hypothesis-confirming.
 
 ---
 

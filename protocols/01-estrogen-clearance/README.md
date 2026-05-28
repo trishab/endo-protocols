@@ -1,11 +1,13 @@
 # Protocol 01 — 30-Day Estrogen Clearance Protocol for Endometriosis & Adenomyosis
 
-> 🩺 **Root-cause, dual-axis framework.** This protocol addresses **two parallel mechanisms** that drive estrogen-related inflammation in endometriosis and adenomyosis:
+> 🩺 **Root-cause framework with explicit dual-axis design (one axis well-supported, one hypothesis-generating).** This protocol is built around **two parallel mechanisms** thought to drive estrogen-related inflammation in endometriosis and adenomyosis:
 >
-> 1. **Liver Phase 2 estrogen clearance** — methylation, sulfation, glucuronidation, glutathione conjugation
-> 2. **Microbiome-mediated estrogen recirculation** — bacterial β-glucuronidase and sulfatase enzymes in the gut and vagina deconjugate already-cleared estrogens, returning them to circulation
+> 1. **Liver Phase 2 estrogen clearance** (methylation, sulfation, glucuronidation, glutathione conjugation) — well-supported by published research; the primary target of standard functional medicine estrogen-clearance work
+> 2. **Microbiome-mediated handling of cleared estrogens** (gut and vaginal bacteria producing β-glucuronidase and sulfatase enzymes) — biologically plausible based on the published estrobolome literature, but the quantitative interaction with Phase 2 interventions has not been directly tested in cohort research
 >
-> Most estrogen-clearance interventions address only the first axis. For people with dysbiotic gut or vaginal microbiomes (very common in endometriosis), the unaddressed second axis substantially undermines the first. This protocol is built around both. The mechanistic basis is in [`why-this-works.md`](why-this-works.md); the case-study evidence is in [`case-studies/001-core-restore-no-bc/`](../../case-studies/001-core-restore-no-bc/) including the integrative [`microbiome-estrogen-axis.md`](../../case-studies/001-core-restore-no-bc/microbiome-estrogen-axis.md) hub document.
+> The protocol's design assumes the integrative dual-axis framing is correct — that addressing both axes produces a more complete clinical response than addressing only the first — but this assumption is **hypothesis-generating, not confirmed by cohort data.** A reader's experience may differ from the author's case-study results depending on their specific Phase 2 status and microbiome composition.
+>
+> The mechanistic basis is in [`why-this-works.md`](why-this-works.md); the case-study evidence is in [`case-studies/001-core-restore-no-bc/`](../../case-studies/001-core-restore-no-bc/) including the integrative [`microbiome-estrogen-axis.md`](../../case-studies/001-core-restore-no-bc/microbiome-estrogen-axis.md) hub document, which explicitly frames the integrative thesis and where the research is well-supported vs. sparse.
 >
 > 📊 **Derived from the case study:** [`case-studies/001-core-restore-no-bc/`](../../case-studies/001-core-restore-no-bc/). The case study shows what happened in one person; this protocol generalizes what worked.
 >

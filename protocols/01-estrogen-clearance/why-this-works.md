@@ -84,15 +84,24 @@ Both are produced widely across bacterial species in dysbiotic gut and vaginal c
 
 People with overgrowth of these bacteria — common in endometriosis populations per [Salliss et al. 2021](https://pubmed.ncbi.nlm.nih.gov/34718567/) — effectively recycle estrogens back into circulation that the liver had already worked to clear. This is the **"estrobolome"** mechanism, originally characterized for the gut by [Baker et al. 2017](https://pubmed.ncbi.nlm.nih.gov/28778332/) and now increasingly recognized as operating in the vagina as well.
 
-### Why this matters for the protocol's effectiveness
+### Why this might matter for the protocol's effectiveness — and what is NOT yet measured
 
-A Phase 2 protocol that improves methylation, sulfation, and glutathione conjugation produces less than its full potential effect if the recipient's gut or vaginal microbiome simultaneously deconjugates the products. In the case-study evidence for this protocol (see [`case-studies/001-core-restore-no-bc/`](../../case-studies/001-core-restore-no-bc/)):
+**The published research supports the mechanism in vitro and at the population level**: bacteria with β-glucuronidase enzymes deconjugate cleared estrogens. CST-IV communities have higher β-glucuronidase activity than CST-I communities.
+
+**What is biologically plausible but NOT directly demonstrated in published cohort research:**
+
+- That a Phase 2 hepatic protocol produces a quantitatively smaller net estrogen-clearance effect in a patient with high β-glucuronidase microbiome composition vs. a patient with low β-glucuronidase microbiome composition
+- That adding direct microbiome restoration to a Phase 2 protocol produces a measurably larger response than the Phase 2 protocol alone
+
+In the case-study evidence for this protocol (see [`case-studies/001-core-restore-no-bc/`](../../case-studies/001-core-restore-no-bc/)):
 
 - The author's bloodwork documented restored methylation cycle (homocysteine ⬇⬇, B12 ⬆) — Phase 2 capacity improved
-- The author's vaginal Evvy mNGS documented a CST-IV community with ~52% combined β-glucuronidase / sulfatase-producing species — microbiome was simultaneously reactivating estrogens
-- The biomarker improvements likely *understate* the protocol's full biological potential because the microbiome-side reactivation was running in parallel
+- The author's vaginal Evvy mNGS (from May 2024 and Nov 2024, ~17 months before the Core Restore) documented a CST-IV community with ~52% combined β-glucuronidase / sulfatase-producing species
+- **Whether the microbiome was still in this state during the April 2026 Core Restore, and whether β-glucuronidase activity was actively occurring at a clinically meaningful magnitude, was not directly measured in this case study**
 
-For the full discussion, see [`case-studies/001-core-restore-no-bc/microbiome-estrogen-axis.md`](../../case-studies/001-core-restore-no-bc/microbiome-estrogen-axis.md).
+The hypothesis that microbiome activity attenuated the protocol's biological response is **biologically plausible based on published mechanism but is not a measurement in this case study.** It is a hypothesis to be tested by future research that directly characterizes both axes simultaneously in the same patients.
+
+For the full discussion of what would need to be measured to test the integrative thesis rigorously, see [`case-studies/001-core-restore-no-bc/microbiome-estrogen-axis.md`](../../case-studies/001-core-restore-no-bc/microbiome-estrogen-axis.md).
 
 ### How the protocol addresses both axes
 
@@ -103,9 +112,21 @@ For the full discussion, see [`case-studies/001-core-restore-no-bc/microbiome-es
    - **Fermented foods + cruciferous vegetables** shift the gut microbiome toward less β-glucuronidase-producing species
    - **L. crispatus support** (oral and vaginal) — protective species that inhibits β-glucuronidase competitors
 
-### The research gap worth naming honestly
+### The research gap — and why this section is honestly hypothesis-generating, not finding-confirming
 
-The estrobolome is well-characterized in the **gut**. The vaginal microbiome is well-characterized as **dysbiotic in endometriosis**. **What is NOT yet well-characterized in the published literature is the integrative cohort study** that measures Phase 2 hepatic capacity + vaginal/gut microbiome + endometriosis outcomes simultaneously in the same patients. Each leg is supported separately; the synthesis is currently theoretical (Salliss 2021 systematic review proposes it explicitly but no empirical cohort has tested it). This is one of the reasons Study 001 (Evvy + WHOOP citizen-science) and the dedicated [`microbiome-estrogen-axis.md`](../../case-studies/001-core-restore-no-bc/microbiome-estrogen-axis.md) framing exist in this repository.
+The estrobolome mechanism is well-characterized in the **gut**, primarily in oncology and pharmacology contexts (drug metabolism, ER-positive breast cancer). The vaginal microbiome is well-characterized as **dysbiotic in endometriosis** populations (Ata 2019, Salliss 2021).
+
+**What is NOT yet well-characterized in the published literature:**
+
+- No prospective cohort study has directly measured β-glucuronidase enzymatic activity + Phase 2 hepatic capacity + endometriosis symptom outcomes simultaneously in the same patients
+- The quantitative interaction between microbiome composition and Phase 2 interventions has not been demonstrated in any clinical trial
+- Whether dual-axis interventions outperform single-axis interventions in endometriosis has not been tested empirically
+
+Each leg of the integrative thesis is supported separately by published research; **the synthesis is currently theoretical** (Salliss 2021 systematic review proposes it explicitly as a future research direction, but no empirical cohort has tested it). 
+
+This protocol incorporates microbiome-side support (Pillar 6) on the **rational basis** that the mechanism is published and the case-study author's data is consistent with the framework — but the protocol's design assumes a relationship between the two axes that has not been definitively shown in any cohort. A reader's response to the protocol's microbiome pillars may differ from the author's case based on factors that the integrative research has not yet characterized.
+
+This is one of the reasons Study 001 (Evvy + WHOOP citizen-science) and the dedicated [`microbiome-estrogen-axis.md`](../../case-studies/001-core-restore-no-bc/microbiome-estrogen-axis.md) framing exist in this repository. The integrative thesis is meant to motivate empirical research, not stand in for it.
 
 ## 6. Sweat is a real secondary clearance route for lipid-soluble compounds
 

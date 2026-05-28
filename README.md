@@ -38,11 +38,11 @@ This repo is built for three audiences and three depths of engagement. Pick whic
 
 ---
 
-## 🧭 The root-cause framework — a dual-axis thesis
+## 🧭 The root-cause framework — a dual-axis hypothesis
 
-Endometriosis and adenomyosis are estrogen-driven inflammatory conditions.[^1] The mainstream treatment paradigm — hormonal suppression and surgical excision — addresses symptoms and visible lesions, but does not always address the underlying biochemistry that drives lesion formation and recurrence: **impaired estrogen clearance, systemic inflammation, and gut/vaginal microbial dysbiosis.**
+Endometriosis and adenomyosis are estrogen-driven inflammatory conditions.[^1] The mainstream treatment paradigm — hormonal suppression and surgical excision — addresses symptoms and visible lesions, but does not always address the underlying biochemistry that may contribute to lesion formation and recurrence: **impaired estrogen clearance, systemic inflammation, and gut/vaginal microbial dysbiosis.**
 
-The integrative thesis of this repository — explained in detail in [`case-studies/001-core-restore-no-bc/microbiome-estrogen-axis.md`](case-studies/001-core-restore-no-bc/microbiome-estrogen-axis.md) — is that **estrogen clearance in endometriosis is a shared liver-and-microbiome problem**, not just a liver problem. The liver does Phase 2 conjugation work to clear estrogens. Gut and vaginal bacteria with β-glucuronidase and sulfatase activity simultaneously deconjugate and reactivate cleared estrogens, returning them to circulation. **A Phase 2 hepatic intervention without a parallel microbiome-side intervention addresses only half the mechanism.** This dual-axis framing structures both the case study and the citizen-science Study 001.
+The integrative thesis of this repository — explained in detail in [`case-studies/001-core-restore-no-bc/microbiome-estrogen-axis.md`](case-studies/001-core-restore-no-bc/microbiome-estrogen-axis.md) — is a **hypothesis worth testing**, not a confirmed finding: **that estrogen clearance in endometriosis may be best understood as a shared liver-and-microbiome problem.** The liver does Phase 2 conjugation work to clear estrogens. Gut and vaginal bacteria with β-glucuronidase and sulfatase activity *in vitro* deconjugate and reactivate cleared estrogens. The published research supports each leg of this argument separately. **The quantitative interaction between hepatic and microbial axes has not been directly tested in cohort research, and is not directly measured in this repository's case study.** This dual-axis framing structures the case study and the citizen-science Study 001 explicitly as hypothesis-generating, not hypothesis-confirming.
 
 This repository explores those underlying drivers:
 

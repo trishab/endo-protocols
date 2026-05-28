@@ -1,30 +1,34 @@
-# The Microbiome × Estrogen Clearance Axis
+# The Microbiome × Estrogen Clearance Axis (Hypothesis-Generating Framework)
 
-> A central, often-overlooked link between the two threads of this case study: the **Phase 2 liver estrogen-clearance work** (Case Study 001) and the **vaginal microbiome characterization** (Study 001). They are not separate stories. They are two sides of the same biochemical problem.
+> ⚠️ **Scope note up front.** This document presents an integrative hypothesis: that estrogen clearance in endometriosis depends on both hepatic Phase 2 capacity AND microbiome-mediated handling of cleared estrogens. **The hypothesis is biologically plausible based on published mechanism for each component.** It has not been directly tested by cohort-level research in endometriosis populations, and it is not directly demonstrated by this case study's measurements. This document is hypothesis-generating, not hypothesis-confirming.
+>
+> If you are reading this looking for "proof" that microbiome work is essential alongside Phase 2 work — there is no published cohort study that establishes that. What there IS: strong separate evidence for each leg of the argument, a coherent biochemical mechanism, and a methodological case for why the integrative cohort research deserves funding and pursuit. That is what this document, and the broader repository, is making the case for.
 
-This document explains:
+This document covers:
 
-1. The integrative thesis — why estrogen clearance is a **shared liver-and-microbiome problem**, not just a liver problem
-2. The mechanism — how bacteria undo Phase 2 estrogen clearance through β-glucuronidase and sulfatase enzymatic activity
-3. What the case-study author's specific microbiome data shows about this mechanism
-4. Why this connection is under-researched at the formal cohort level, and what each leg of the argument *is* supported by
-5. Implications for clinical care, protocol design, and the rationale for Study 001
+1. The integrative thesis — the hypothesis that estrogen clearance is a **shared liver-and-microbiome problem**
+2. The mechanism — how bacteria are *known to* undo Phase 2 estrogen clearance through β-glucuronidase and sulfatase enzymatic activity (in vitro evidence)
+3. What the case-study author's specific microbiome data does and does NOT establish
+4. The honest research gap — what each leg of the argument *is* supported by, and what would have to be measured to test the integrative thesis directly
+5. Implications for clinical care, protocol design, and the rationale for Study 001 — framed as hypothesis-driven design, not validated practice
 
 ---
 
-## 1. The integrative thesis
+## 1. The integrative thesis (hypothesis)
 
 Endometriosis is an estrogen-driven inflammatory disease. The liver does the work of clearing endogenous estrogens via Phase 2 conjugation. Most clinical and functional-medicine attention focuses on **how to improve Phase 2 capacity** (methylation, sulforaphane, DIM, NAC, glutathione precursors — see [`protocols/01-estrogen-clearance/`](../../protocols/01-estrogen-clearance/)).
 
-But this framing misses a critical second mechanism:
+But this framing may miss a second mechanism worth measuring:
 
-> **The bacteria living in the gut and vagina can deconjugate already-cleared estrogens and return them to circulation — undoing the liver's Phase 2 work.**
+> **The bacteria living in the gut and vagina can deconjugate already-cleared estrogens and return them to circulation — undoing some of the liver's Phase 2 work.**
 
-A Phase 2 protocol that improves homocysteine, restores methylation capacity, and upregulates conjugation enzymes will produce *less than its full potential effect* if a person's gut and vaginal microbiomes are simultaneously hydrolyzing the conjugates and reactivating the estrogens.
+A Phase 2 protocol that improves homocysteine, restores methylation capacity, and upregulates conjugation enzymes may produce *less than its full potential effect* if a person's gut and vaginal microbiomes are simultaneously hydrolyzing the conjugates and reactivating the estrogens. **Whether this quantitative attenuation actually occurs in any individual patient — and at what magnitude — has not been directly demonstrated by cohort research.**
 
-For someone with endometriosis, this isn't a marginal effect. It's a structural reason why a 14-day liver-focused detox protocol produces a meaningful but incomplete improvement: the protocol fixes the liver-side biology; it doesn't fix the microbiome-side biology that's running in parallel.
+**The integrative thesis of this case study, framed as a hypothesis worth testing:**
 
-**The integrative thesis of this case study is that effective estrogen-clearance interventions for endometriosis require addressing both axes simultaneously.**
+> Effective estrogen-clearance interventions for endometriosis may benefit from addressing both axes simultaneously. The published research establishes each axis separately. The integrative dual-axis hypothesis remains theoretical until empirical cohort research directly characterizes the interaction.
+
+This case study is not the cohort research that would test the hypothesis. It is one author's documented attempt to address both axes, with biomarker data confirming the Phase 2 side and microbiome data confirming the presence of β-glucuronidase-producing species. **The connection between the two — that the microbiome was actively undoing Phase 2 work during the protocol — is plausible but not measured.**
 
 ---
 
@@ -98,13 +102,24 @@ The author's vaginal microbiome (Evvy mNGS, May 2024) shows the following profil
 - *Sneathia vaginalis* (amnii): ~1%
 - **Combined deconjugation-active: ~52%**
 
-### The implication
+### What this data shows — and what it does NOT show
 
-**Roughly half of the vaginal microbial community has β-glucuronidase or sulfatase capacity.** Even with maximal Phase 2 hepatic support — which the Core Restore protocol delivered (documented by the homocysteine drop and B12 improvement in the [biomarker results](biomarker-results.md)) — a meaningful fraction of cleared estrogens is biochemically reactivated and recirculated.
+**What the data establishes:**
+- Roughly half of the vaginal microbial community (as of the May 2024 and November 2024 Evvy samples) has *species composition consistent with* β-glucuronidase or sulfatase enzymatic capacity per published characterization of these species
+- A CST-IV community pattern was present and persistent across the two sampling timepoints (~6 months apart)
+- *L. crispatus* was present but not dominant (35% — below CST-I threshold of >80%)
 
-This is the mechanistic explanation for an otherwise puzzling clinical pattern: someone with documented Phase 2 improvement, multi-axis WHOOP signal improvements, and clear case-study evidence of protocol response **still operates against a continuing estrogen-reactivation drag from her own microbial community.**
+**What the data does NOT establish:**
 
-It also explains, mechanistically, **why the protocol's Pillar 6** (block enterohepatic recirculation via fiber + calcium-D-glucarate) is not a peripheral pillar but a structural one. Without it, the other Phase 2 work is partially undone in real time.
+- **Whether β-glucuronidase was actively occurring in this author's body at clinically meaningful levels.** Bacterial composition tells us species are present and have enzymatic potential; it does not measure enzyme activity directly. Enzymatic activity assays on urine or stool would be needed to confirm.
+- **Whether the microbiome state persisted through April 2026 when the Core Restore protocol occurred.** The most recent Evvy data is from November 2024 — ~17 months before the case-study window. Vaginal microbiome composition can shift in that timeframe, in either direction. The state during the protocol is unknown without a current retest.
+- **Whether bacterial activity quantitatively attenuated the case-study author's biomarker improvements.** This would require measuring estrogen metabolite ratios (DUTCH) and free vs. conjugated estrogen status alongside the bloodwork, which was not done.
+
+**What this case study therefore supports:**
+
+The presence of a CST-IV vaginal community pattern in an endometriosis patient — a finding consistent with the broader published literature (Ata 2019, Salliss 2021). The protocol's design (which includes Pillar 6: fiber + calcium-D-glucarate as enterohepatic / entero-vaginal recirculation blockade) is based on the published mechanism that this community state *could* be attenuating Phase 2 work, but the case-study data does not directly demonstrate that this attenuation occurred.
+
+The protocol's Pillar 6 is included on the rational basis that **(a)** published estrobolome research shows the mechanism is biochemically real, **(b)** the case-study author's microbiome composition is consistent with the species known to perform this activity, and **(c)** the intervention (fiber + calcium-D-glucarate) is safe, low-cost, and has independent benefits. **It is included because the integrative thesis is plausible, not because the integrative thesis is established.**
 
 ---
 

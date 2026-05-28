@@ -145,14 +145,16 @@ Until 2019, "Gardnerella" was treated as a single species — *Gardnerella vagin
 
 > **This is the section that explicitly synthesizes liver-side and microbiome-side estrogen clearance into a single mechanistic framework. It is novel in synthesis but not in components. Each leg has substantial published support; the integrative cohort research is sparse.**
 
-### The integrative thesis
+### The integrative thesis — framed as hypothesis, not finding
 
-Estrogen-driven inflammatory disease in endometriosis is the product of two parallel mechanisms operating simultaneously:
+Estrogen-driven inflammatory disease in endometriosis is, **per published mechanism**, potentially the product of two parallel mechanisms operating simultaneously:
 
-1. **Liver Phase 2 capacity** — methylation, sulfation, glucuronidation, glutathione conjugation. Determines the rate at which the liver clears circulating estrogens.
-2. **Microbiome-mediated reactivation** — bacterial β-glucuronidase and sulfatase enzymes in the gut and vagina deconjugate hepatically cleared estrogens, returning them to circulation as bioactive molecules.
+1. **Liver Phase 2 capacity** — methylation, sulfation, glucuronidation, glutathione conjugation. Determines the rate at which the liver clears circulating estrogens. **Well-supported by published research.**
+2. **Microbiome-mediated reactivation** — bacterial β-glucuronidase and sulfatase enzymes in the gut and vagina deconjugate hepatically cleared estrogens *in vitro*, returning them to circulation as bioactive molecules. **The biochemistry is well-supported; the clinical magnitude in individual patients with endometriosis is not yet characterized.**
 
-A clinical intervention that addresses only Mechanism 1 (typical functional medicine "liver detox") produces an effect proportional to the patient's microbial deconjugation pressure — which varies dramatically across patients.
+A clinical intervention that addresses only Mechanism 1 (typical functional medicine "liver detox") **could in principle** produce an effect that is attenuated by the patient's microbial deconjugation pressure. **Whether this attenuation occurs at clinically meaningful magnitude in any given patient — and how variable it is across patients — has not been directly demonstrated in cohort research.**
+
+This is the integrative hypothesis: that the dual-axis framing matters clinically. It is plausible, mechanistically grounded, and consistent with the broader endometriosis-microbiome systematic reviews (Salliss 2021). It is not yet confirmed.
 
 ### Where the research is robust — Leg 1: liver Phase 2 capacity in endometriosis
 

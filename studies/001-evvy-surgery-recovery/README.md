@@ -14,13 +14,13 @@
 
 **Does the composition of the vaginal microbiome at the time of endometriosis surgery predict the trajectory of post-surgical recovery?**
 
-> **Why this study connects to Case Study 001 — and why it matters for the broader estrogen-clearance framework.**
+> **Why this study connects to Case Study 001 — and why this study is one part of testing an integrative hypothesis.**
 >
-> The case study at [`case-studies/001-core-restore-no-bc/`](../../case-studies/001-core-restore-no-bc/) documents one patient's response to a liver-side estrogen-clearance protocol (Phase 2 methylation, sulfation, glutathione conjugation work). The biomarker bloodwork confirmed restored methylation cycle capacity. **But the case study's microbiome data — the same one this study is built on — also shows that roughly half of her vaginal community produces β-glucuronidase and sulfatase enzymes**, which deconjugate already-cleared estrogens and return them to circulation.
+> The case study at [`case-studies/001-core-restore-no-bc/`](../../case-studies/001-core-restore-no-bc/) documents one patient's biomarker response to a liver-side estrogen-clearance protocol (Phase 2 methylation, sulfation, glutathione conjugation work). The biomarker bloodwork confirmed restored methylation cycle capacity. **The same patient's vaginal microbiome data shows a CST-IV community with approximately half the species composition consistent with β-glucuronidase and sulfatase enzymatic potential per published characterization** (Gardnerella spp., Prevotella spp., Atopobium / Fannyhessea, Megasphaera, Sneathia).
 >
-> This means the liver-side and microbiome-side mechanisms are **two halves of the same estrogen-clearance problem**. Study 001's primary endpoint (HRV recovery after surgery) and its mechanistic backstory (CST-IV → inflammation + LPS + estrogen recirculation) both connect back to that integrative framework.
+> The integrative hypothesis these two datasets together generate — but do not themselves confirm — is that **estrogen clearance in endometriosis depends on both hepatic Phase 2 capacity and microbial handling of cleared estrogens**. The case study presents the biomarker side. This Study 001 prospectively tests, at cohort scale, whether vaginal microbiome state predicts a clinically meaningful endpoint (surgical recovery) in additional endometriosis patients. **Together, the case study and this study are designed to generate the empirical data that would justify a fully-powered RCT of the integrative thesis.** Neither one, alone or together, currently confirms it.
 >
-> **For the full mechanistic synthesis — published research supporting each leg separately, why integrative cohort research has not yet been published, and the implications for clinical care — see [`microbiome-estrogen-axis.md`](../../case-studies/001-core-restore-no-bc/microbiome-estrogen-axis.md).** This Study 001 is, in part, the prospective cohort version of testing that integrative thesis at the surgical-recovery endpoint.
+> **For the full mechanistic synthesis — published research supporting each leg separately, why integrative cohort research has not yet been published, what specific measurements would test the framework directly, and the explicit framing of this thesis as hypothesis-generating rather than confirmed — see [`microbiome-estrogen-axis.md`](../../case-studies/001-core-restore-no-bc/microbiome-estrogen-axis.md).**
 
 Specifically:
 
