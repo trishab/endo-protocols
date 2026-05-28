@@ -107,7 +107,7 @@ Until 2019, "Gardnerella" was treated as a single species — *Gardnerella vagin
 
 1. **Direct ascending colonization** — dysbiotic organisms reach the uterus and peritoneum where they drive local inflammation
 2. **Systemic inflammatory spillover** — CST-IV elevates circulating cytokines measurable in blood
-3. **Altered estrogen recycling (estrobolome)** — vaginal and gut bacteria modulate circulating estrogens via β-glucuronidase activity, affecting endo severity
+3. **Altered estrogen recycling (estrobolome)** — vaginal and gut bacteria modulate circulating estrogens via β-glucuronidase activity, affecting endo severity. **This is the under-recognized third mechanism, expanded in §4b below.**
 
 ### Direct microbial community studies
 
@@ -132,6 +132,74 @@ Until 2019, "Gardnerella" was treated as a single species — *Gardnerella vagin
 
 **4.6 Baker JM, Al-Nakkash L, Herbst-Kralovetz MM.** "Estrogen-gut microbiome axis: Physiological and clinical implications." *Maturitas.* 2017;103:45-53. [PMID: 28778332](https://pubmed.ncbi.nlm.nih.gov/28778332/)
 > The "estrobolome" review. Bacteria producing β-glucuronidase deconjugate hepatically cleared estrogens in the gut, allowing reabsorption and effectively recycling estrogens back into circulation. Directly relevant to the endometriosis estrogen-clearance story this whole repo investigates.
+
+**4.7 Plottel CS, Blaser MJ.** "Microbiome and malignancy." *Cell Host Microbe.* 2011;10(4):324-335. [PMID: 21925106](https://pubmed.ncbi.nlm.nih.gov/21925106/)
+> The earlier conceptual framing for how microbiome composition modulates estrogen-driven disease risk via deconjugation pathways. Foundational citation for the estrobolome field.
+
+**4.8 Kwa M, Plottel CS, Blaser MJ, Adams S.** "The intestinal microbiome and estrogen receptor-positive female breast cancer." *J Natl Cancer Inst.* 2016;108(8):djw029. [PMID: 27107051](https://pubmed.ncbi.nlm.nih.gov/27107051/)
+> Extends the estrobolome framework specifically to estrogen-receptor-positive disease. The mechanism (β-glucuronidase deconjugation → reabsorption → elevated estrogen exposure) generalizes from breast cancer to endometriosis.
+
+---
+
+## 4b. The microbiome × Phase 2 estrogen-clearance axis — integrative framing
+
+> **This is the section that explicitly synthesizes liver-side and microbiome-side estrogen clearance into a single mechanistic framework. It is novel in synthesis but not in components. Each leg has substantial published support; the integrative cohort research is sparse.**
+
+### The integrative thesis
+
+Estrogen-driven inflammatory disease in endometriosis is the product of two parallel mechanisms operating simultaneously:
+
+1. **Liver Phase 2 capacity** — methylation, sulfation, glucuronidation, glutathione conjugation. Determines the rate at which the liver clears circulating estrogens.
+2. **Microbiome-mediated reactivation** — bacterial β-glucuronidase and sulfatase enzymes in the gut and vagina deconjugate hepatically cleared estrogens, returning them to circulation as bioactive molecules.
+
+A clinical intervention that addresses only Mechanism 1 (typical functional medicine "liver detox") produces an effect proportional to the patient's microbial deconjugation pressure — which varies dramatically across patients.
+
+### Where the research is robust — Leg 1: liver Phase 2 capacity in endometriosis
+
+- Cavalieri & Rogan 2016 (depurinating estrogen-DNA adducts; PMID: 27060235) — the 4-OH estrogen quinone problem requiring Phase 2 methylation
+- Piccinato 2016 (sulfotransferase / sulfatase expression in endo tissue; PMID: 26773670) — local Phase 2 enzyme dysregulation at the lesion level
+- Hodges & Minich 2015 (Phase 2 detoxification via foods; PMID: 26167297) — the comprehensive clinical review of nutritional Phase 2 induction
+
+### Where the research is robust — Leg 2: bacterial enzymatic deconjugation of estrogens
+
+- Baker, Al-Nakkash & Herbst-Kralovetz 2017 (PMID: 28778332) — the foundational estrobolome paper
+- Plottel & Blaser 2011 (PMID: 21925106) — earlier conceptual framing
+- Kwa et al. 2016 (PMID: 27107051) — extension to ER-positive breast cancer
+- Salliss et al. 2021 (PMID: 34718567) — explicit proposal that the estrobolome operates in endometriosis as well as in other estrogen-driven diseases
+
+### Where the research is robust — Leg 3: vaginal microbiome dysbiosis in endometriosis
+
+- Ata et al. 2019 Endobiota (PMID: 30778155) — CST-IV-equivalent communities differ between endo and controls
+- Hernandes et al. 2020 (PMID: 32188065) — lesion-level microbiome composition
+- Leonardi et al. 2020 systematic review (PMID: 31621155)
+- Salliss et al. 2021 systematic review (PMID: 34718567)
+
+### What is NOT yet well-supported in the cohort literature
+
+**No prospective cohort study has measured all of the following simultaneously in the same endometriosis patients:**
+
+1. Serum Phase 2 capacity markers (homocysteine, methylation status, glutathione status)
+2. Vaginal microbiome composition by mNGS
+3. Gut microbiome composition by mNGS, particularly β-glucuronidase activity quantification
+4. Serum estrogen metabolite ratios (e.g., DUTCH or equivalent)
+5. Endometriosis symptom severity and inflammatory markers longitudinally
+
+The integrative framework — that Phase 2 hepatic support produces dose-attenuated effects in patients with high microbial β-glucuronidase load — is **implicit in Salliss 2021 and Baker 2017** but has not been the subject of a dedicated empirical cohort study.
+
+### Why the integrative research gap persists
+
+Four structural reasons:
+
+1. **Disciplinary silos.** Estrobolome research lives in microbiology / gastroenterology. Phase 2 hepatology lives in functional medicine / pharmacology. Endometriosis research lives in reproductive medicine. No funded consortium spans all three.
+2. **Vaginal estrobolome is undercharacterized.** Published estrobolome work focuses heavily on gut. The same enzymatic activity in the vagina is biochemically obvious but has received less empirical attention.
+3. **mNGS-based vaginal microbiome data is recent and not insurance-covered.** Until tools like Evvy made species-level vaginal microbiome data routinely available, the cohort-level studies were not feasible at scale.
+4. **Endometriosis funding gap.** NIH endometriosis funding is approximately $26M/year — one of the most documented underfunding gaps in women's health research. Integrative multi-axis studies require larger funding than single-mechanism studies.
+
+### The repository's contribution to the gap
+
+The case-study + protocol + Study 001 architecture in this repository is designed to begin generating pilot-level evidence for the integrative framework. **It is not the cohort study that the field ultimately needs**, but it provides the methodological infrastructure (data collection, anonymization, analysis scripts) and proof-of-concept that a citizen-science version of the integrative cohort study is feasible.
+
+For the dedicated case-study walkthrough of this integrative framework, see [`case-studies/001-core-restore-no-bc/microbiome-estrogen-axis.md`](../case-studies/001-core-restore-no-bc/microbiome-estrogen-axis.md).
 
 ---
 

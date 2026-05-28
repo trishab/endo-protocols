@@ -67,19 +67,45 @@ When the liver is simultaneously metabolizing environmental estrogen mimics AND 
 
 **Implication:** reducing inbound toxicant load (BPA-free plastics, clean personal care, organic where possible, filtered water) reduces Phase 1/Phase 2 traffic and frees capacity for endogenous estrogen clearance.
 
-## 5. The gut microbiome can sabotage estrogen clearance via β-glucuronidase
+## 5. The microbiome can sabotage estrogen clearance via β-glucuronidase and sulfatase — and this is the under-recognized second axis
 
-Cleared estrogens that have been glucuronidated and excreted into bile can be **deconjugated by gut bacterial β-glucuronidase** and reabsorbed into circulation — a process called **enterohepatic recirculation**. This is the gut's "estrobolome" effect.
+This is the mechanism most often underweighted in functional medicine and almost never addressed in mainstream endometriosis care. It is, in many patients, the structural reason a high-quality Phase 2 protocol produces only a partial response.
 
-People with overgrowth of β-glucuronidase-producing bacteria (often in dysbiotic states with low *Lactobacillus* dominance) effectively recycle estrogens back into their bloodstream that the liver had already worked to clear.
+### The mechanism
 
-**The protocol blocks this two ways:**
+Cleared estrogens — already conjugated by the liver via glucuronidation or sulfation, packaged into bile, and excreted into the gut and reproductive tract — can be **deconjugated by bacterial enzymes** and reabsorbed into circulation. This is called **enterohepatic recirculation** in the gut and operates by the same enzymatic chemistry in the vagina.
 
-1. **Fiber (30+ g/day)** binds bile and prevents some of the glucuronide hydrolysis
-2. **Calcium-D-glucarate** directly inhibits β-glucuronidase (practitioner-guided supplementation)
-3. **Fermented foods + cruciferous vegetables** shift the gut microbiome toward less β-glucuronidase-producing species
+The two key bacterial enzymes:
 
-This pathway is also why **vaginal and gut microbial dysbiosis** matters in endometriosis — see [Study 001 (Evvy)](../../studies/001-evvy-surgery-recovery/) for the microbiome-surgical recovery connection.
+- **β-glucuronidase** — cleaves glucuronic acid groups off conjugated estrogens; returns the molecule to its bioactive form
+- **Sulfatase (steroid sulfatase, STS)** — cleaves sulfate groups off sulfated estrogens; same net effect
+
+Both are produced widely across bacterial species in dysbiotic gut and vaginal communities — *Escherichia coli*, *Clostridium* spp., *Bacteroides* spp. in the gut, and *Gardnerella* spp., *Prevotella* spp., *Atopobium vaginae* (*Fannyhessea vaginae*), and *Megasphaera* in the vagina.
+
+People with overgrowth of these bacteria — common in endometriosis populations per [Salliss et al. 2021](https://pubmed.ncbi.nlm.nih.gov/34718567/) — effectively recycle estrogens back into circulation that the liver had already worked to clear. This is the **"estrobolome"** mechanism, originally characterized for the gut by [Baker et al. 2017](https://pubmed.ncbi.nlm.nih.gov/28778332/) and now increasingly recognized as operating in the vagina as well.
+
+### Why this matters for the protocol's effectiveness
+
+A Phase 2 protocol that improves methylation, sulfation, and glutathione conjugation produces less than its full potential effect if the recipient's gut or vaginal microbiome simultaneously deconjugates the products. In the case-study evidence for this protocol (see [`case-studies/001-core-restore-no-bc/`](../../case-studies/001-core-restore-no-bc/)):
+
+- The author's bloodwork documented restored methylation cycle (homocysteine ⬇⬇, B12 ⬆) — Phase 2 capacity improved
+- The author's vaginal Evvy mNGS documented a CST-IV community with ~52% combined β-glucuronidase / sulfatase-producing species — microbiome was simultaneously reactivating estrogens
+- The biomarker improvements likely *understate* the protocol's full biological potential because the microbiome-side reactivation was running in parallel
+
+For the full discussion, see [`case-studies/001-core-restore-no-bc/microbiome-estrogen-axis.md`](../../case-studies/001-core-restore-no-bc/microbiome-estrogen-axis.md).
+
+### How the protocol addresses both axes
+
+1. **Pillars 3–5** target liver Phase 2 capacity (methylation cofactors, sulfation support, glutathione conjugation)
+2. **Pillar 6** targets enterohepatic / entero-vaginal recirculation:
+   - **Fiber (30+ g/day)** binds bile and conjugated estrogens; prevents some of the glucuronide hydrolysis
+   - **Calcium-D-glucarate** (practitioner-guided) directly inhibits β-glucuronidase
+   - **Fermented foods + cruciferous vegetables** shift the gut microbiome toward less β-glucuronidase-producing species
+   - **L. crispatus support** (oral and vaginal) — protective species that inhibits β-glucuronidase competitors
+
+### The research gap worth naming honestly
+
+The estrobolome is well-characterized in the **gut**. The vaginal microbiome is well-characterized as **dysbiotic in endometriosis**. **What is NOT yet well-characterized in the published literature is the integrative cohort study** that measures Phase 2 hepatic capacity + vaginal/gut microbiome + endometriosis outcomes simultaneously in the same patients. Each leg is supported separately; the synthesis is currently theoretical (Salliss 2021 systematic review proposes it explicitly but no empirical cohort has tested it). This is one of the reasons Study 001 (Evvy + WHOOP citizen-science) and the dedicated [`microbiome-estrogen-axis.md`](../../case-studies/001-core-restore-no-bc/microbiome-estrogen-axis.md) framing exist in this repository.
 
 ## 6. Sweat is a real secondary clearance route for lipid-soluble compounds
 

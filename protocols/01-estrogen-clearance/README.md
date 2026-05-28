@@ -1,6 +1,11 @@
 # Protocol 01 — 30-Day Estrogen Clearance Protocol for Endometriosis & Adenomyosis
 
-> 🩺 **Root-cause framework.** This protocol targets the underlying biochemistry that drives estrogen-related inflammation in endometriosis and adenomyosis — not just symptom suppression.
+> 🩺 **Root-cause, dual-axis framework.** This protocol addresses **two parallel mechanisms** that drive estrogen-related inflammation in endometriosis and adenomyosis:
+>
+> 1. **Liver Phase 2 estrogen clearance** — methylation, sulfation, glucuronidation, glutathione conjugation
+> 2. **Microbiome-mediated estrogen recirculation** — bacterial β-glucuronidase and sulfatase enzymes in the gut and vagina deconjugate already-cleared estrogens, returning them to circulation
+>
+> Most estrogen-clearance interventions address only the first axis. For people with dysbiotic gut or vaginal microbiomes (very common in endometriosis), the unaddressed second axis substantially undermines the first. This protocol is built around both. The mechanistic basis is in [`why-this-works.md`](why-this-works.md); the case-study evidence is in [`case-studies/001-core-restore-no-bc/`](../../case-studies/001-core-restore-no-bc/) including the integrative [`microbiome-estrogen-axis.md`](../../case-studies/001-core-restore-no-bc/microbiome-estrogen-axis.md) hub document.
 >
 > 📊 **Derived from the case study:** [`case-studies/001-core-restore-no-bc/`](../../case-studies/001-core-restore-no-bc/). The case study shows what happened in one person; this protocol generalizes what worked.
 >

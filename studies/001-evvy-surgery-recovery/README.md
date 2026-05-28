@@ -14,6 +14,14 @@
 
 **Does the composition of the vaginal microbiome at the time of endometriosis surgery predict the trajectory of post-surgical recovery?**
 
+> **Why this study connects to Case Study 001 — and why it matters for the broader estrogen-clearance framework.**
+>
+> The case study at [`case-studies/001-core-restore-no-bc/`](../../case-studies/001-core-restore-no-bc/) documents one patient's response to a liver-side estrogen-clearance protocol (Phase 2 methylation, sulfation, glutathione conjugation work). The biomarker bloodwork confirmed restored methylation cycle capacity. **But the case study's microbiome data — the same one this study is built on — also shows that roughly half of her vaginal community produces β-glucuronidase and sulfatase enzymes**, which deconjugate already-cleared estrogens and return them to circulation.
+>
+> This means the liver-side and microbiome-side mechanisms are **two halves of the same estrogen-clearance problem**. Study 001's primary endpoint (HRV recovery after surgery) and its mechanistic backstory (CST-IV → inflammation + LPS + estrogen recirculation) both connect back to that integrative framework.
+>
+> **For the full mechanistic synthesis — published research supporting each leg separately, why integrative cohort research has not yet been published, and the implications for clinical care — see [`microbiome-estrogen-axis.md`](../../case-studies/001-core-restore-no-bc/microbiome-estrogen-axis.md).** This Study 001 is, in part, the prospective cohort version of testing that integrative thesis at the surgical-recovery endpoint.
+
 Specifically:
 
 - Do participants with a *Lactobacillus crispatus*-dominant vaginal microbiome (Community State Type I, or "CST-I") recover faster than participants with a diverse, Gardnerella-associated microbiome (Community State Type IV, or "CST-IV")?

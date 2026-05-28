@@ -151,6 +151,18 @@ node scripts/analyze-phases.mjs \
 
 ---
 
+## 🧬 The integrative framework — liver-side AND microbiome-side estrogen clearance
+
+> **This case study is not a "liver detox" story in isolation.** It's one half of an integrative thesis: that effective estrogen clearance in endometriosis requires addressing both liver Phase 2 capacity (this case study) AND microbiome-mediated recirculation of cleared estrogens (parallel Study 001, Evvy + WHOOP).
+>
+> Bacteria in the gut and vagina produce **β-glucuronidase** (and sulfatase) — enzymes that deconjugate already-cleared estrogens and return them to circulation, undoing the liver's Phase 2 work. A Phase 2 intervention that improves homocysteine, restores methylation, and upregulates conjugation enzymes will produce *less than its full potential effect* if the microbiome is simultaneously hydrolyzing the conjugates.
+>
+> The author's vaginal microbiome data (Evvy mNGS, see [Study 001 pilot data](../../studies/001-evvy-surgery-recovery/README.md)) shows roughly half of the community composition has β-glucuronidase or sulfatase activity (Gardnerella spp., Prevotella spp., Atopobium / Fannyhessea, Megasphaera, Sneathia). The biomarker improvements documented below are **real and meaningful, AND they happened against a continuing microbiome-driven estrogen-reactivation pressure.** Both mechanisms are part of the same disease biology.
+>
+> **For the full mechanistic walkthrough — the published research supporting each leg of the argument, why the integrative cohort research is sparse, and the implications for clinical care and protocol design — see [`microbiome-estrogen-axis.md`](microbiome-estrogen-axis.md).**
+
+---
+
 ## Confirmatory blood work — directional summary
 
 Two Quest Diagnostics blood panels bookend the case-study window: one in **January 2026** (~2.5 months before the 14-day cycle, ~7 months after the 7-day cycle) and one **April 23, 2026** (5 days after the 14-day cycle ended). The full directional breakdown is in [`biomarker-results.md`](biomarker-results.md).

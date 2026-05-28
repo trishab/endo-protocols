@@ -38,9 +38,11 @@ This repo is built for three audiences and three depths of engagement. Pick whic
 
 ---
 
-## 🧭 The root-cause framework
+## 🧭 The root-cause framework — a dual-axis thesis
 
 Endometriosis and adenomyosis are estrogen-driven inflammatory conditions.[^1] The mainstream treatment paradigm — hormonal suppression and surgical excision — addresses symptoms and visible lesions, but does not always address the underlying biochemistry that drives lesion formation and recurrence: **impaired estrogen clearance, systemic inflammation, and gut/vaginal microbial dysbiosis.**
+
+The integrative thesis of this repository — explained in detail in [`case-studies/001-core-restore-no-bc/microbiome-estrogen-axis.md`](case-studies/001-core-restore-no-bc/microbiome-estrogen-axis.md) — is that **estrogen clearance in endometriosis is a shared liver-and-microbiome problem**, not just a liver problem. The liver does Phase 2 conjugation work to clear estrogens. Gut and vaginal bacteria with β-glucuronidase and sulfatase activity simultaneously deconjugate and reactivate cleared estrogens, returning them to circulation. **A Phase 2 hepatic intervention without a parallel microbiome-side intervention addresses only half the mechanism.** This dual-axis framing structures both the case study and the citizen-science Study 001.
 
 This repository explores those underlying drivers:
 

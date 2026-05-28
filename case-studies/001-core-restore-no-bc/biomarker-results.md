@@ -97,6 +97,22 @@ What it does establish: **multiple biomarkers moved in the direction predicted b
 
 ---
 
+## 🧬 An important caveat — these biomarker shifts happened against ongoing microbiome-driven estrogen recirculation
+
+The biomarker improvements documented above (homocysteine ⬇⬇, B12 ⬆, vitamin D ⬆⬆) are real and reflect restored hepatic Phase 2 capacity. But they tell only **half** of the estrogen-clearance story.
+
+The author's parallel vaginal microbiome characterization ([Study 001 pilot data](../../studies/001-evvy-surgery-recovery/README.md)) shows a CST-IV dysbiotic pattern with roughly half the community composition having **β-glucuronidase and/or sulfatase enzymatic activity** (Gardnerella spp., Prevotella spp., Atopobium / Fannyhessea, Megasphaera, Sneathia). These enzymes deconjugate already-cleared estrogens and return them to circulation, undoing some of the Phase 2 work the bloodwork above documents.
+
+**This means:**
+
+- The Phase 2 hepatic improvements measured here likely *understate* the magnitude of the biological response, because the same protocol that improved Phase 2 capacity did not directly address the parallel microbiome-side reactivation pathway
+- A Phase 2 intervention paired with a microbiome restoration intervention should — in principle — produce larger net estrogen clearance than either alone
+- The protocol in this repository ([`protocols/01-estrogen-clearance/`](../../protocols/01-estrogen-clearance/)) addresses both axes for this reason
+
+**For the full mechanistic walkthrough — including published research supporting each leg separately, the research-gap framing on why integrative cohort studies do not yet exist, and the implications for clinical care — see [`microbiome-estrogen-axis.md`](microbiome-estrogen-axis.md).**
+
+---
+
 ## What would strengthen future panels
 
 For anyone considering similar tracking, the highest-yield additions would be:
